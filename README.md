@@ -2,9 +2,10 @@
 <h3 align="center">A passionate Full-stack Web-Developer from India</h3>
 
 ---
-
+## About me <img src=https://media.tenor.com/images/dae7cfce2b5f6a79fa7fc208816be042/tenor.gif width="30" height="30">
 - 🔭 I’m currently working on [The Monk Store](https://webkriti-the-monk-store.herokuapp.com/)
 - 🌱 I’m currently learning reactJS
+- 📫 How to reach me tiwarivarun819.vt33.vt@gmail.com
 
 ---
 
@@ -23,12 +24,14 @@
 
 ---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=varunkt001&show_icons=true&locale=en" alt="varunkt001" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=varunkt001&" alt="varunkt001" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=varunkt001&" alt="varunkt001" /></p>
+<h2 align="center">📊 My Stats</h2>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=varunkt001&show_icons=true&locale=en" alt="varunkt001" /></p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://linkedin.com/in/varun-tiwari-454591178" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="varun tiwari" height="30" width="40" /></a>
 <a href="https://www.facebook.com/profile.php?id=100057310502325" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="varun tiwari" height="30" width="40" /></a>
 <a href="https://instagram.com/varuntiwari55" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="varuntiwari55" height="30" width="40" /></a>
