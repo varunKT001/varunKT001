@@ -3,7 +3,7 @@
 
 ---
 ## About me <img src=https://media.tenor.com/images/dae7cfce2b5f6a79fa7fc208816be042/tenor.gif width="30" height="30">
-- 🔭 I’m currently working on [The Monk Store](https://webkriti-the-monk-store.herokuapp.com/)
+- 🔭 I’m currently working on improving [blogg](https://letsblogg.netlify.app/)
 - 🌱 I’m currently learning reactJS
 - 📫 How to reach me tiwarivarun819.vt33.vt@gmail.com
 
