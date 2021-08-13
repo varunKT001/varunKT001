@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Varun Kumar Tiwari</h1>
-<h3 align="center">A passionate Full-stack Web-Developer from India</h3>
+<h3 align="center">A Web-Development enthusiast from India</h3>
 
 ---
 ## About me <img src=https://media.tenor.com/images/dae7cfce2b5f6a79fa7fc208816be042/tenor.gif width="30" height="30">
