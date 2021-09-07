@@ -3,8 +3,8 @@
 
 ---
 ## About me <img src=https://media.tenor.com/images/dae7cfce2b5f6a79fa7fc208816be042/tenor.gif width="30" height="30">
-- 🔭 I’m currently working on improving [TomperChat](https://tomperchat.netlify.app/)
-- 🌱 I’m currently learning reactJS
+- 🔭 I’m currently learning reactJS
+- 🌱 I'm looking for open source opportunity
 - 📫 How to reach me tiwarivarun819.vt33.vt@gmail.com
 
 ---
