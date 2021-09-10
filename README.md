@@ -1,3 +1,5 @@
+<img src='https://github.com/PulkitSinghDev/PulkitSinghDev/blob/main/footer.png'>
+
 <h1 align="center">Hi 👋, I'm Varun Kumar Tiwari</h1>
 <h3 align="center">A Web-Development enthusiast from India</h3>
 
