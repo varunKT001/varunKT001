@@ -30,7 +30,9 @@
 
 <h2 align="center">📊 My Stats</h2>
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=varunkt001&show_icons=true&locale=en" alt="varunkt001" /></p>
-
+<a href="https://github.com/anuraghazra/convoychat">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=varunKT001&theme=light" />
+</a>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
