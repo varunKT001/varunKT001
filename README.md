@@ -4,30 +4,64 @@
 <h3 align="center">A Web-Development enthusiast from India</h3>
 
 ---
-## About me <img src=https://media.tenor.com/images/dae7cfce2b5f6a79fa7fc208816be042/tenor.gif width="30" height="30">
+
+## About me 👦
+
 - 🔭 I’m currently learning more about web-bundlers.
 - 🌱 I'm looking for open-source/internship opportunities.
 - ✨ Find all my projects at [varuntiwari.xyz](https://varuntiwari.xyz/)
 - 📫 How to reach me tiwarivarun819.vt33.vt@gmail.com
 
 ## Some achievements 🏆
+
 - [Winner of OpenCode'21, one of the biggest open-source events.](https://www.linkedin.com/posts/geekhaven-iiita_opencode21-witnessed-extensive-participation-activity-6866010351947825152-KiNB)
 - [Finished in the Top 10 in Out of Context, an event organized by Effervescence, IIITA.](https://www.linkedin.com/posts/varun-tiwari-454591178_top10-outofcontext-design-activity-6882312778040930304-Fshh)
 
 ---
 
-<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
-<a href= https://www.w3schools.com/html/ > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'></a>
-<a href= https://www.w3schools.com/css/ > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> </a>
-<a href= https://www.w3schools.com/js/ > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
-<a href= https://www.w3schools.com/nodejs/ > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nodejs.svg'> </a>
-<a href= https://expressjs.com/ > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/express.svg'> </a>
-<a href= https://www.postgresql.org/ > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/postgresql.svg'> </a>
-<a href= https://www.postman.com/ > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/postman.svg'> </a>
-<a href= https://git-scm.com/ > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/git.svg'> </a>
-<a href= https://github.com/ > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg'> </a>
-<a href= https://en.wikipedia.org/wiki/C_(programming_language) > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg'> </a>
-<a href= https://en.wikipedia.org/wiki/C%2B%2B > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cpp.svg'> </a>
+## Skills 💪
+
+<p><img width ='75px' height='25px' src ='https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E
+'>
+<img width ='75px' height='25px' src ='https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
+'>
+<img width ='75px' height='25px' src ='https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white
+'>
+<img width ='75px' height='25px' src ='https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
+'>
+<img width ='75px' height='25px' src ='https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
+'>
+<img width ='75px' height='25px' src ='https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white
+'>
+<img width ='75px' height='25px' src ='https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white
+'>
+<img width ='75px' height='25px' src ='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white
+'>
+<img width ='75px' height='25px' src ='https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white
+'>
+<img width ='75px' height='25px' src ='https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white
+'>
+<img width ='75px' height='25px' src ='https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white
+'>
+<img width ='75px' height='25px' src ='https://img.shields.io/badge/Socket.io-010101?&style=for-the-badge&logo=Socket.io&logoColor=white
+'>
+<img width ='75px' height='25px' src ='https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white
+'>
+<img width ='75px' height='25px' src ='https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white
+'>
+<img width ='75px' height='25px' src ='https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white
+'>
+<img width ='75px' height='25px' src ='https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black
+'>
+<img width ='75px' height='25px' src ='https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=Stripe&logoColor=white
+'>
+<img width ='75px' height='25px' src ='https://img.shields.io/badge/Chakra--UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white
+'>
+<img width ='75px' height='25px' src ='https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white
+'>
+<img width ='75px' height='25px' src ='https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
+'>
+</p>
 
 ---
 
@@ -44,9 +78,5 @@
 <a href="https://www.facebook.com/profile.php?id=100057310502325" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="varun tiwari" height="30" width="40" /></a>
 <a href="https://instagram.com/varuntiwari55" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="varuntiwari55" height="30" width="40" /></a>
 </p>
-
-
-
-
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=varunkt001&label=Profile%20views&color=0e75b6&style=flat" alt="varunkt001" /> </p>
