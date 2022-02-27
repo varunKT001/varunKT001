@@ -16,7 +16,7 @@
 
 - [Winner of OpenCode'21, one of the biggest open-source events, organized by GeekHaven, IIITA.](https://www.linkedin.com/posts/geekhaven-iiita_opencode21-witnessed-extensive-participation-activity-6866010351947825152-KiNB)
 - [Finished in the Top 10 in Out of Context, an event organized by Effervescence, IIITA.](https://www.linkedin.com/posts/varun-tiwari-454591178_top10-outofcontext-design-activity-6882312778040930304-Fshh)
-- [GSSOC'22 Project Admin, with my project Tomper Wear E-commerce](https://www.linkedin.com/posts/varun-tiwari-454591178_gssoc22-girlscript-educationfirst-activity-6903552524234686464-bEEL)
+- [GSSOC'22 Project Admin, with my project Tomper Wear E-commerce.](https://www.linkedin.com/posts/varun-tiwari-454591178_gssoc22-girlscript-educationfirst-activity-6903552524234686464-bEEL)
 
 ## Blogs written ✍️
 
