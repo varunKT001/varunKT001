@@ -21,8 +21,8 @@
 
 ## Blogs written ✍️
 
-- [git set go 🐱‍👤](https://medium.com/tech-iiitg/git-set-go-950bfb8fdf19) (Published at [tech@iiitm-gwalior](https://medium.com/tech-iiitg) publication)
-- [What I learned through OpenCode!](https://medium.com/nybles/what-i-learned-through-opencode-39622d7c7024) (Published at [Nybles](https://medium.com/nybles) publication)
+- [**git set go** 🐱‍👤](https://medium.com/tech-iiitg/git-set-go-950bfb8fdf19) (Published at [**tech@iiitm-gwalior**](https://medium.com/tech-iiitg) publication)
+- [**What I learned through OpenCode!**](https://medium.com/nybles/what-i-learned-through-opencode-39622d7c7024) (Published at [**Nybles**](https://medium.com/nybles) publication)
 
 ---
 
