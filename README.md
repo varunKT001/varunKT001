@@ -9,8 +9,8 @@
 
 - 🔭 I’m currently learning more about web-bundlers.
 - 🌱 I'm looking for open-source/internship opportunities.
-- ✨ Find all my projects at [varuntiwari.xyz](https://varuntiwari.xyz/)
-- 📫 How to reach me tiwarivarun819.vt33.vt@gmail.com
+- ✨ Find all my projects at [**varuntiwari.xyz**](https://varuntiwari.xyz/)
+- 📫 How to reach me **tiwarivarun819.vt33.vt@gmail.com**
 
 ## Some achievements 🏆
 
