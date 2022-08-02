@@ -54,6 +54,10 @@
     <td align='center'>
         <img width ='80px' height='25px' src ='https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB' />
     </td>
+    <!-- Redux.js -->
+    <td align='center'>
+        <img width ='80px' height='25px' src ='https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white' />
+    </td>
     <!-- Node.js -->
     <td align='center'>
         <img width ='80px' height='25px' src ='https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white' />
@@ -65,10 +69,6 @@
     <!-- CSS3 -->
     <td align='center'>
         <img width ='80px' height='25px' src ='https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white' />
-    </td>
-    <!-- PostgreSQL -->
-    <td align='center'>
-    <img width ='80px' height='25px' src ='https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white' />
     </td>
     <!-- Express.js -->
     <td align='center'>
@@ -97,13 +97,13 @@
     <td align='center'>
         <img width ='80px' height='25px' src ='https://img.shields.io/badge/Socket.io-010101?&style=for-the-badge&logo=Socket.io&logoColor=white' />
     </td>
-    <!-- Markdown -->
-    <td align='center'>
-        <img width ='80px' height='25px' src ='https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white' />
-    </td>
     <!-- Styled components -->
     <td align='center'>
         <img width ='80px' height='25px' src ='https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white' />
+    </td>
+    <!-- PostgreSQL -->
+    <td align='center'>
+    <img width ='80px' height='25px' src ='https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white' />
     </td>
     <!-- MongoDB -->
     <td align='center'>
@@ -139,6 +139,10 @@
     <!-- Adobe illustrator -->
     <td align='center'>
         <img width ='80px' height='25px' src ='https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white' />
+    </td>
+    <!-- Markdown -->
+    <td align='center'>
+        <img width ='80px' height='25px' src ='https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white' />
     </td>
   </tr>
 </table>
