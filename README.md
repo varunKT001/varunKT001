@@ -4,13 +4,6 @@
 <img src='./banner.png'>
 </td>
 
-<!-- Header -->
-
-<h1 align="center">Hi 👋, I'm Varun Kumar Tiwari</h1>
-<h3 align="center">A Web-Development enthusiast from India</h3>
-
----
-
 <!-- About me -->
 
 ## About me 👦
