@@ -62,9 +62,6 @@
     <td align='center'>
         <img width ='80px' height='25px' src ='https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white' />
     </td>
-  </tr>
-
-  <tr>
     <!-- CSS3 -->
     <td align='center'>
         <img width ='80px' height='25px' src ='https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white' />
@@ -77,6 +74,9 @@
     <td align='center'>
         <img width ='80px' height='25px' src ='https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white' />
     </td>
+  </tr>
+
+  <tr>
     <!-- Github -->
     <td align='center'>
         <img width ='80px' height='25px' src ='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white' />
@@ -85,9 +85,6 @@
     <td align='center'>
         <img width ='80px' height='25px' src ='https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white' />
     </td>
-  </tr>
-
-  <tr>
     <!-- Heroku -->
     <td align='center'>
         <img width ='80px' height='25px' src ='https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white' />
@@ -108,14 +105,13 @@
     <td align='center'>
         <img width ='80px' height='25px' src ='https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white' />
     </td>
-
-  </tr>
-
-  <tr>
     <!-- MongoDB -->
     <td align='center'>
         <img width ='80px' height='25px' src ='https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white' />
     </td>
+  </tr>
+
+  <tr>
     <!-- Firebase -->
     <td align='center'>
         <img width ='80px' height='25px' src ='https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black' />
@@ -132,9 +128,6 @@
     <td align='center'>
         <img width ='80px' height='25px' src ='https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white' />
     </td>
-  </tr>
-
-  <tr>
     <!-- Bootstrap -->
     <td align='center'>
         <img width ='80px' height='25px' src ='https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white' />
