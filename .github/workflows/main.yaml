@@ -13,7 +13,7 @@ jobs:
 
     steps:
       - name: Checkout current repository to Main branch
-        uses: actions/checkout@v1
+        uses: actions/checkout@v2
       - name: Setup NodeJs 13.x
         uses: actions/setup-node@v1
         with:
@@ -29,8 +29,9 @@ jobs:
         run: npm run build
       - name: Generate README file
         run: node build/index.js
-      - name: Commit and Push new README.md to the repository
-        uses: mikeal/publish-to-github-action@master
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          BRANCH_NAME: 'main'
+      - name: Commit and push
+        uses: EndBug/add-and-commit@v9
+        with:
+          author_name: Varun Tiwari
+          author_email: tiwarivarun819.vt33.vt@gmail.com
+          message: ':memo: Update README.md'
