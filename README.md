@@ -127,9 +127,9 @@
 <p align="center">
 <img width="25px" src="./assets/quote.png">
 <br/>
-<strong align="center">Programmer (noun)</strong>
+<strong align="center">How does a programmer open a jar?</strong>
 <br/>
-<span align="center">A machine that turns coffee into code.</span>
+<span align="center">They install Java.</span>
 </p>
 
 <!-- Socials -->
