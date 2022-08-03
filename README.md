@@ -1,8 +1,6 @@
 <!-- Banner -->
 
-<td align='center'>
 <img src='./banner.png'>
-</td>
 
 <!-- About me -->
 
@@ -33,112 +31,76 @@
 
 ## Skills 💪
 
-<table align='center'>
-  <tr>
-    <!-- Javascript -->
-    <td align='center'>
-        <img width ='80px' height='25px' src ='https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E' />
-    </td>
-    <!-- Typescript -->
-    <td align='center'>
-        <img width ='80px' height='25px' src ='https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white' />
-    </td>
-    <!-- React.js -->
-    <td align='center'>
-        <img width ='80px' height='25px' src ='https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB' />
-    </td>
-    <!-- Redux.js -->
-    <td align='center'>
-        <img width ='80px' height='25px' src ='https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white' />
-    </td>
-    <!-- Node.js -->
-    <td align='center'>
-        <img width ='80px' height='25px' src ='https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white' />
-    </td>
-    <!-- HTML5 -->
-    <td align='center'>
-        <img width ='80px' height='25px' src ='https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white' />
-    </td>
-    <!-- CSS3 -->
-    <td align='center'>
-        <img width ='80px' height='25px' src ='https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white' />
-    </td>
-    <!-- Express.js -->
-    <td align='center'>
-        <img width ='80px' height='25px' src ='https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white' />
-    </td>
-  </tr>
+<p>
+<!-- Javascript -->
+<img width ='80px' height='25px' src ='https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E' />
 
-  <tr>
-    <!-- Github -->
-    <td align='center'>
-        <img width ='80px' height='25px' src ='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white' />
-    </td>
-    <!-- Git -->
-    <td align='center'>
-        <img width ='80px' height='25px' src ='https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white' />
-    </td>
-    <!-- Heroku -->
-    <td align='center'>
-        <img width ='80px' height='25px' src ='https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white' />
-    </td>
-    <!-- Netlify -->
-    <td align='center'>
-        <img width ='80px' height='25px' src ='https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white' />
-    </td>
-    <!-- Socket.io -->
-    <td align='center'>
-        <img width ='80px' height='25px' src ='https://img.shields.io/badge/Socket.io-010101?&style=for-the-badge&logo=Socket.io&logoColor=white' />
-    </td>
-    <!-- Styled components -->
-    <td align='center'>
-        <img width ='80px' height='25px' src ='https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white' />
-    </td>
-    <!-- PostgreSQL -->
-    <td align='center'>
-    <img width ='80px' height='25px' src ='https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white' />
-    </td>
-    <!-- MongoDB -->
-    <td align='center'>
-        <img width ='80px' height='25px' src ='https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white' />
-    </td>
-  </tr>
+<!-- Typescript -->
+<img width ='80px' height='25px' src ='https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white' />
 
-  <tr>
-    <!-- Firebase -->
-    <td align='center'>
-        <img width ='80px' height='25px' src ='https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black' />
-    </td>
-    <!-- Stripe -->
-    <td align='center'>
-        <img width ='80px' height='25px' src ='https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=Stripe&logoColor=white' />
-    </td>
-    <!-- Chakra-UI -->
-    <td align='center'>
-        <img width ='80px' height='25px' src ='https://img.shields.io/badge/Chakra--UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white' />
-    </td>
-    <!-- JWT -->
-    <td align='center'>
-        <img width ='80px' height='25px' src ='https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white' />
-    </td>
-    <!-- Bootstrap -->
-    <td align='center'>
-        <img width ='80px' height='25px' src ='https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white' />
-    </td>
-    <!-- Figma -->
-    <td align='center'>
-        <img width ='80px' height='25px' src ='https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white' />
-    </td>
-    <!-- Adobe illustrator -->
-    <td align='center'>
-        <img width ='80px' height='25px' src ='https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white' />
-    </td>
-    <!-- Markdown -->
-    <td align='center'>
-        <img width ='80px' height='25px' src ='https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white' />
-    </td>
-  </tr>
-</table>
+<!-- React.js -->
+<img width ='80px' height='25px' src ='https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB' />
+
+<!-- Node.js -->
+<img width ='80px' height='25px' src ='https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white' />
+
+<!-- HTML5 -->
+<img width ='80px' height='25px' src ='https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white' />
+
+<!-- CSS3 -->
+<img width ='80px' height='25px' src ='https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white' />
+
+<!-- PostgreSQL -->
+<img width ='80px' height='25px' src ='https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white' />
+
+<!-- Express.js -->
+<img width ='80px' height='25px' src ='https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white' />
+
+<!-- Github -->
+<img width ='80px' height='25px' src ='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white' />
+
+<!-- Git -->
+<img width ='80px' height='25px' src ='https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white' />
+
+<!-- Heroku -->
+<img width ='80px' height='25px' src ='https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white' />
+
+<!-- Netlify -->
+<img width ='80px' height='25px' src ='https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white' />
+
+<!-- Socket.io -->
+<img width ='80px' height='25px' src ='https://img.shields.io/badge/Socket.io-010101?&style=for-the-badge&logo=Socket.io&logoColor=white' />
+
+<!-- Markdown -->
+<img width ='80px' height='25px' src ='https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white' />
+
+<!-- Styled components -->
+<img width ='80px' height='25px' src ='https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white' />
+
+<!-- MongoDB -->
+<img width ='80px' height='25px' src ='https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white' />
+
+<!-- Firebase -->
+<img width ='80px' height='25px' src ='https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black' />
+
+<!-- Stripe -->
+<img width ='80px' height='25px' src ='https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=Stripe&logoColor=white' />
+
+<!-- Chakra-UI -->
+<img width ='80px' height='25px' src ='https://img.shields.io/badge/Chakra--UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white' />
+
+<!-- JWT -->
+<img width ='80px' height='25px' src ='https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white' />
+
+<!-- Bootstrap -->
+<img width ='80px' height='25px' src ='https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white' />
+
+<!-- Figma -->
+<img width ='80px' height='25px' src ='https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white' />
+
+<!-- Adobe illustrator -->
+<img width ='80px' height='25px' src ='https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white' />
+</p>
 
 ---
 
