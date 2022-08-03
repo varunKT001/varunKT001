@@ -127,9 +127,9 @@
 <p align="center">
 <img width="25px" src="./assets/quote.png">
 <br/>
-<strong align="center">Why do backend devs never run out of energy?</strong>
+<strong align="center">How does a programmer open a jar?</strong>
 <br/>
-<span align="center">They build REST APIs.</span>
+<span align="center">They install Java.</span>
 </p>
 
 <!-- Socials -->
