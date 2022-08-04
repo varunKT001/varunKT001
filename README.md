@@ -127,9 +127,9 @@
 <p align="center">
 <img width="25px" src="./assets/quote.png">
 <br/>
-<strong align="center">Why aren&#39;t cryptocurrency engineers allowed to vote?</strong>
+<strong align="center">What&#39;s the second movie about a database engineer called?</strong>
 <br/>
-<span align="center">Because they are miners.</span>
+<span align="center">The SQL.</span>
 </p>
 
 <!-- Socials -->
