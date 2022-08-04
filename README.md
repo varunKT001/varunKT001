@@ -127,9 +127,9 @@
 <p align="center">
 <img width="25px" src="./assets/quote.png">
 <br/>
-<strong align="center">What&#39;s the second movie about a database engineer called?</strong>
+<strong align="center">Why do developers use mechanical keyboards?</strong>
 <br/>
-<span align="center">The SQL.</span>
+<span align="center">To strongly type their code.</span>
 </p>
 
 <!-- Socials -->
