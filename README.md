@@ -127,9 +127,9 @@
 <p align="center">
 <img width="25px" src="./assets/quote.png">
 <br/>
-<strong align="center">What are your plans for the weekend?</strong>
+<strong align="center">What did the computer do at lunchtime?</strong>
 <br/>
-<span align="center">I know Front-end and Back-end, what is week-end?</span>
+<span align="center">Had a byte.</span>
 </p>
 
 <!-- Socials -->
