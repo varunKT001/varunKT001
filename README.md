@@ -127,9 +127,9 @@
 <p align="center">
 <img width="25px" src="./assets/quote.png">
 <br/>
-<strong align="center">Why can&#39;t SQL and NoSQL Developers date one other?</strong>
+<strong align="center">Where did the API go to eat?</strong>
 <br/>
-<span align="center">Because they don&#39;t agree on relationships.</span>
+<span align="center">To the RESTaurant.</span>
 </p>
 
 <!-- Socials -->
