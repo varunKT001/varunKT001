@@ -127,9 +127,9 @@
 <p align="center">
 <img width="25px" src="./assets/quote.png">
 <br/>
-<strong align="center">Why was the computer freezing?</strong>
+<strong align="center">Where do programmer dad&#39;s store their jokes?</strong>
 <br/>
-<span align="center">It left its Windows open.</span>
+<span align="center">In a dad-a-base.</span>
 </p>
 
 <!-- Socials -->
