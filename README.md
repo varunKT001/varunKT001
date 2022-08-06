@@ -127,9 +127,9 @@
 <p align="center">
 <img width="25px" src="./assets/quote.png">
 <br/>
-<strong align="center">Where do programmer dad&#39;s store their jokes?</strong>
+<strong align="center">What did the Class say in court when put on trial?</strong>
 <br/>
-<span align="center">In a dad-a-base.</span>
+<span align="center">I strongly object!</span>
 </p>
 
 <!-- Socials -->
