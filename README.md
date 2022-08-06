@@ -127,9 +127,9 @@
 <p align="center">
 <img width="25px" src="./assets/quote.png">
 <br/>
-<strong align="center">What did the Class say in court when put on trial?</strong>
+<strong align="center">Why did the developer go broke?</strong>
 <br/>
-<span align="center">I strongly object!</span>
+<span align="center">Because they used up all their cache.</span>
 </p>
 
 <!-- Socials -->
