@@ -127,9 +127,9 @@
 <p align="center">
 <img width="25px" src="./assets/quote.png">
 <br/>
-<strong align="center">Why did the developer go broke?</strong>
+<strong align="center">Exercise for others - 160 calories burned.</strong>
 <br/>
-<span align="center">Because they used up all their cache.</span>
+<span align="center">Exercise for coders - 60 bugs fixed.</span>
 </p>
 
 <!-- Socials -->
