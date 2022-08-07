@@ -127,9 +127,9 @@
 <p align="center">
 <img width="25px" src="./assets/quote.png">
 <br/>
-<strong align="center">Why did the document store go out of business?</strong>
+<strong align="center">Which programming language is the shortest?</strong>
 <br/>
-<span align="center">It has NoSQL.</span>
+<span align="center">HTML, because it doesn&#39;t have a neck between head and body.</span>
 </p>
 
 <!-- Socials -->
