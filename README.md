@@ -127,9 +127,9 @@
 <p align="center">
 <img width="25px" src="./assets/quote.png">
 <br/>
-<strong align="center">Are computers dangerous?</strong>
+<strong align="center">What did spider do on the computer?</strong>
 <br/>
-<span align="center">Nah, they don&#39;t byte.</span>
+<span align="center">Made a website.</span>
 </p>
 
 <!-- Socials -->
