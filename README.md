@@ -127,9 +127,9 @@
 <p align="center">
 <img width="25px" src="./assets/quote.png">
 <br/>
-<strong align="center">Where did the API go to eat?</strong>
+<strong align="center">Are computers dangerous?</strong>
 <br/>
-<span align="center">To the RESTaurant.</span>
+<span align="center">Nah, they don&#39;t byte.</span>
 </p>
 
 <!-- Socials -->
