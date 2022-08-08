@@ -127,9 +127,9 @@
 <p align="center">
 <img width="25px" src="./assets/quote.png">
 <br/>
-<strong align="center">Which programming language is the shortest?</strong>
+<strong align="center">Exercise for others - 160 calories burned.</strong>
 <br/>
-<span align="center">HTML, because it doesn&#39;t have a neck between head and body.</span>
+<span align="center">Exercise for coders - 60 bugs fixed.</span>
 </p>
 
 <!-- Socials -->
