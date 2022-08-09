@@ -127,9 +127,9 @@
 <p align="center">
 <img width="25px" src="./assets/quote.png">
 <br/>
-<strong align="center">Programmer (noun)</strong>
+<strong align="center">Why do developers use mechanical keyboards?</strong>
 <br/>
-<span align="center">A machine that turns coffee into code.</span>
+<span align="center">To strongly type their code.</span>
 </p>
 
 <!-- Socials -->
