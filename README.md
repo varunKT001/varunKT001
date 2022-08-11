@@ -127,9 +127,9 @@
 <p align="center">
 <img width="25px" src="./assets/quote.png">
 <br/>
-<strong align="center">Why do Front-End Developers eat lunch alone?</strong>
+<strong align="center">How do you know your baby is going to be a developer when they grow up?</strong>
 <br/>
-<span align="center">Because, they don&#39;t know how to join tables.</span>
+<span align="center">Their first word is Hello World.</span>
 </p>
 
 <!-- Socials -->
