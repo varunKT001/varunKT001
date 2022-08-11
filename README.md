@@ -127,9 +127,9 @@
 <p align="center">
 <img width="25px" src="./assets/quote.png">
 <br/>
-<strong align="center">How many developers does it take to change a light bulb?</strong>
+<strong align="center">What do you call a doctor who fixes websites?</strong>
 <br/>
-<span align="center">None. It&#39;s a hardware issue.</span>
+<span align="center">A URLogist</span>
 </p>
 
 <!-- Socials -->
