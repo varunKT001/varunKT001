@@ -127,9 +127,9 @@
 <p align="center">
 <img width="25px" src="./assets/quote.png">
 <br/>
-<strong align="center">How do you know your baby is going to be a developer when they grow up?</strong>
+<strong align="center">How many developers does it take to change a light bulb?</strong>
 <br/>
-<span align="center">Their first word is Hello World.</span>
+<span align="center">None. It&#39;s a hardware issue.</span>
 </p>
 
 <!-- Socials -->
