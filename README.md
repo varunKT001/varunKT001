@@ -127,9 +127,9 @@
 <p align="center">
 <img width="25px" src="./assets/quote.png">
 <br/>
-<strong align="center">Programmer (noun)</strong>
+<strong align="center">What did the Python say when they came out of the shell?</strong>
 <br/>
-<span align="center">A machine that turns coffee into code.</span>
+<span align="center">Print(&#34;Hello World!&#34;)</span>
 </p>
 
 <!-- Socials -->
