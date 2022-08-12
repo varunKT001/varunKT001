@@ -127,9 +127,9 @@
 <p align="center">
 <img width="25px" src="./assets/quote.png">
 <br/>
-<strong align="center">Why does keyboard sleep?</strong>
+<strong align="center">Programmer (noun)</strong>
 <br/>
-<span align="center">Because it has two shifts.</span>
+<span align="center">A machine that turns coffee into code.</span>
 </p>
 
 <!-- Socials -->
