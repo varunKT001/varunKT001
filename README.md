@@ -106,6 +106,103 @@
 
 </p>
 
+<!-- projects -->
+
+## Major Projects 👷‍♂️
+
+<table>
+<thead>
+  <tr>
+    <th>Project Name</th>
+    <th>Description</th>
+    <th>Project Link</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td><a href="https://github.com/varunKT001/tomper-wear-ecommerce" target="_blank" rel="noopener noreferrer">tomper-wear-ecommerce</a></td>
+    <td>TomperWear is an E-commerce platform for small bussiness owners who want to expand their bussiness by providing an online purchase solution to their customers.</td>
+    <td><a href="https://tomper-wear.netlify.app/" target="_blank" rel="noopener noreferrer">visit</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/varunKT001/tomper-chat" target="_blank" rel="noopener noreferrer">tomper-chat</a></td>
+    <td>TomperChat is a clone of WhatsApp. Its build using MERN stack and uses socket.io for realtime messaging, online statuses, typing indicators, notifications etc.</td>
+    <td><a href="https://tomper-chat.herokuapp.com/" target="_blank" rel="noopener noreferrer">visit</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/varunKT001/tomper-readme-generator" target="_blank" rel="noopener noreferrer">tomper-readme-generator</a></td>
+    <td>Generate your Github Profile Readme using the best templates _(UNDER DEVELOPMENT)_</td>
+    <td><a href="https://tomper-readme-generator.herokuapp.com/" target="_blank" rel="noopener noreferrer">visit</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/varunKT001/tomper-jobs" target="_blank" rel="noopener noreferrer">tomper-jobs</a></td>
+    <td>TopperJobs is a job application tracking application that keeps track of the jobs you&#39;ve applied for.</td>
+    <td><a href="https://tomper-jobs.netlify.app/" target="_blank" rel="noopener noreferrer">visit</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/varunKT001/tomperjs" target="_blank" rel="noopener noreferrer">tomper.js</a></td>
+    <td>TomperJS is a web-framework based on MVC(Model-View-Controller) architecture pattern.</td>
+    <td><a href="https://varunkt001.github.io/tomperjs/" target="_blank" rel="noopener noreferrer">visit</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/varunKT001/express-ts-decorators" target="_blank" rel="noopener noreferrer">express-ts-decorators</a></td>
+    <td>Simple Typescript decorators for Express.</td>
+    <td><a href="https://www.npmjs.com/package/@varuntiwari/express-ts-decorators" target="_blank" rel="noopener noreferrer">npm</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/varunKT001/tloc" target="_blank" rel="noopener noreferrer">tloc</a></td>
+    <td>Find out how many lines of code you have written for your project.</td>
+    <td><a href="https://www.npmjs.com/package/tloc" target="_blank" rel="noopener noreferrer">npm</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/varunKT001/personal-portfolio" target="_blank" rel="noopener noreferrer">personal-portfolio</a></td>
+    <td>This is my portfolio website built with react and hosted with netlify.</td>
+    <td><a href="https://varuntiwari.xyz/" target="_blank" rel="noopener noreferrer">visit</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/varunKT001/yeyebibi-generator" target="_blank" rel="noopener noreferrer">yeyebibi-generator</a></td>
+    <td>It&#39;s an encoder/decoder. An input string is encoded or decoded, and the output is displayed.</td>
+    <td><a href="https://varunkt001.github.io/yeyebibi-generator" target="_blank" rel="noopener noreferrer">visit</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/varunKT001/cpu-scheduler-ITIT-2206" target="_blank" rel="noopener noreferrer">cpu-scheduling-algorithms</a></td>
+    <td>CPU Scheduling algorithms are implemented using JavaScript.</td>
+    <td><a href="https://varunkt001.github.io/cpu-scheduler-ITIT-2206/" target="_blank" rel="noopener noreferrer">visit</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/varunKT001/opencode-snake-game" target="_blank" rel="noopener noreferrer">opencode-snake-game</a></td>
+    <td>This Snake game is built using React.js and Bootstrap for the biggest open-source event, OpenCode&#39;21.</td>
+    <td><a href="https://opencode-snake-game.netlify.app/" target="_blank" rel="noopener noreferrer">visit</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/varunKT001/opencode-personal-website" target="_blank" rel="noopener noreferrer">opencode-personal-website</a></td>
+    <td>This personal portfolio website is built using HTML, CSS, and Bootstrap for the biggest open-source event, OpenCode&#39;21.</td>
+    <td><a href="https://varunkt001.github.io/opencode-personal-website/" target="_blank" rel="noopener noreferrer">visit</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/varunKT001/tcc" target="_blank" rel="noopener noreferrer">tcc</a></td>
+    <td>Its a test project for learning how compilers and transpilers like babel work behind the scenes.</td>
+    <td><a href="https://github.com/varunKT001/tcc" target="_blank" rel="noopener noreferrer">visit</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/varunKT001/tomper-chitchat-frontend" target="_blank" rel="noopener noreferrer">tomper-chitchat</a></td>
+    <td>Tomper Chit Chat is a web-based chatting application, allowing users to either chat in public rooms or make their own rooms, by providing a unique room ID.</td>
+    <td><a href="https://tomper-chitchat.netlify.app/" target="_blank" rel="noopener noreferrer">visit</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/varunKT001/sudarshan" target="_blank" rel="noopener noreferrer">sudarshan</a></td>
+    <td>Sudarshan an online tool allows users to alter the size of images as per their needs.</td>
+    <td><a href="https://sudarshan.netlify.app/" target="_blank" rel="noopener noreferrer">visit</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/varunKT001/blogg-frontend" target="_blank" rel="noopener noreferrer">blogg</a></td>
+    <td>Blogg is a platform where people with different backgrounds can share their expertise and experiences.</td>
+    <td><a href="https://tomperblogg.netlify.app/" target="_blank" rel="noopener noreferrer">visit</a></td>
+  </tr>
+
+</tbody>
+</table>
+
 ---
 
 <!-- Stats -->
@@ -127,9 +224,9 @@
 <p align="center">
 <img width="25px" src="./assets/quote.png">
 <br/>
-<strong align="center">Why do all HTML emails get blocked?</strong>
+<strong align="center">Why did the developer go broke?</strong>
 <br/>
-<span align="center">Because they are all spans.</span>
+<span align="center">Because they used up all their cache.</span>
 </p>
 
 <!-- Socials -->
