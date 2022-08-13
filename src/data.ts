@@ -123,7 +123,7 @@ export const view = {
       name: 'tomper-readme-generator',
       repoLink: 'https://github.com/varunKT001/tomper-readme-generator',
       projectLink: 'https://tomper-readme-generator.herokuapp.com/',
-      desc: 'Generate your Github Profile Readme using the best templates _(UNDER DEVELOPMENT)_',
+      desc: `Generate your Github Profile Readme using the best templates (UNDER DEVELOPMENT).`,
       linkText: 'visit',
     },
     {
