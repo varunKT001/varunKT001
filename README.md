@@ -127,9 +127,9 @@
 <p align="center">
 <img width="25px" src="./assets/quote.png">
 <br/>
-<strong align="center">How does a programmer open a jar?</strong>
+<strong align="center">Why do all HTML emails get blocked?</strong>
 <br/>
-<span align="center">They install Java.</span>
+<span align="center">Because they are all spans.</span>
 </p>
 
 <!-- Socials -->
