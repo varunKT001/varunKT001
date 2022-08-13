@@ -127,9 +127,9 @@
 <p align="center">
 <img width="25px" src="./assets/quote.png">
 <br/>
-<strong align="center">Algorithm (noun)</strong>
+<strong align="center">Why do all HTML emails get blocked?</strong>
 <br/>
-<span align="center">Word used by programmers when.. they do not want to explain what they did.</span>
+<span align="center">Because they are all spans.</span>
 </p>
 
 <!-- Socials -->
