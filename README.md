@@ -131,7 +131,7 @@
   </tr>
   <tr>
     <td><a href="https://github.com/varunKT001/tomper-readme-generator" target="_blank" rel="noopener noreferrer">tomper-readme-generator</a></td>
-    <td>Generate your Github Profile Readme using the best templates _(UNDER DEVELOPMENT)_</td>
+    <td>Generate your Github Profile Readme using the best templates (UNDER DEVELOPMENT).</td>
     <td><a href="https://tomper-readme-generator.herokuapp.com/" target="_blank" rel="noopener noreferrer">visit</a></td>
   </tr>
   <tr>
@@ -224,9 +224,9 @@
 <p align="center">
 <img width="25px" src="./assets/quote.png">
 <br/>
-<strong align="center">Why did the developer go broke?</strong>
+<strong align="center">What did the computer do at lunchtime?</strong>
 <br/>
-<span align="center">Because they used up all their cache.</span>
+<span align="center">Had a byte.</span>
 </p>
 
 <!-- Socials -->
