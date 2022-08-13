@@ -127,9 +127,9 @@
 <p align="center">
 <img width="25px" src="./assets/quote.png">
 <br/>
-<strong align="center">How does a programmer open a jar?</strong>
+<strong align="center">Algorithm (noun)</strong>
 <br/>
-<span align="center">They install Java.</span>
+<span align="center">Word used by programmers when.. they do not want to explain what they did.</span>
 </p>
 
 <!-- Socials -->
