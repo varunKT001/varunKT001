@@ -38,6 +38,29 @@
 <% } %>
 </p>
 
+<!-- projects -->
+
+## Major Projects 👷‍♂️
+
+<table>
+<thead>
+  <tr>
+    <th>Project Name</th>
+    <th>Description</th>
+    <th>Project Link</th>
+  </tr>
+</thead>
+<tbody>
+<% for (let project of projects) { -%>
+  <tr>
+    <td><a href="<%= project.repoLink %>" target="_blank" rel="noopener noreferrer"><%= project.name %></a></td>
+    <td><%= project.desc %></td>
+    <td><a href="<%= project.projectLink %>" target="_blank" rel="noopener noreferrer"><%= project.linkText %></a></td>
+  </tr>
+<% } %>
+</tbody>
+</table>
+
 ---
 
 <!-- Stats -->
