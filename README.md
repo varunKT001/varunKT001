@@ -181,9 +181,9 @@
 <p align="center">
 <img width="25px" src="./assets/quote.png">
 <br/>
-<strong align="center">Why do Java programmers wear glasses?</strong>
+<strong align="center">Algorithm (noun)</strong>
 <br/>
-<span align="center">Because they don&#39;t C#.</span>
+<span align="center">Word used by programmers when.. they do not want to explain what they did.</span>
 </p>
 
 <!-- Socials -->
