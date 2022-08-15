@@ -181,9 +181,9 @@
 <p align="center">
 <img width="25px" src="./assets/quote.png">
 <br/>
-<strong align="center">What did the fruit basket say to the developer?</strong>
+<strong align="center">Why are machine learning models so fit?</strong>
 <br/>
-<span align="center">I hope you&#39;re ready for some pear programming.</span>
+<span align="center">Because they do weight training.</span>
 </p>
 
 <!-- Socials -->
