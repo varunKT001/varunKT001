@@ -181,9 +181,9 @@
 <p align="center">
 <img width="25px" src="./assets/quote.png">
 <br/>
-<strong align="center">Why are machine learning models so fit?</strong>
+<strong align="center">What do you call a doctor who fixes websites?</strong>
 <br/>
-<span align="center">Because they do weight training.</span>
+<span align="center">A URLogist</span>
 </p>
 
 <!-- Socials -->
