@@ -181,9 +181,9 @@
 <p align="center">
 <img width="25px" src="./assets/quote.png">
 <br/>
-<strong align="center">What do you call a doctor who fixes websites?</strong>
+<strong align="center">Why do programmers prefer dark mode?</strong>
 <br/>
-<span align="center">A URLogist</span>
+<span align="center">Because light attracts bugs.</span>
 </p>
 
 <!-- Socials -->
