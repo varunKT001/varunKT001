@@ -181,9 +181,9 @@
 <p align="center">
 <img width="25px" src="./assets/quote.png">
 <br/>
-<strong align="center">What do you call a doctor who fixes websites?</strong>
+<strong align="center">What accomodations did the JavaScript developer request at the hotel?</strong>
 <br/>
-<span align="center">A URLogist</span>
+<span align="center">A room with a Vue.</span>
 </p>
 
 <!-- Socials -->
