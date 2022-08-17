@@ -181,9 +181,9 @@
 <p align="center">
 <img width="25px" src="./assets/quote.png">
 <br/>
-<strong align="center">What did the computer do at lunchtime?</strong>
+<strong align="center">Algorithm (noun)</strong>
 <br/>
-<span align="center">Had a byte.</span>
+<span align="center">Word used by programmers when.. they do not want to explain what they did.</span>
 </p>
 
 <!-- Socials -->
