@@ -181,9 +181,9 @@
 <p align="center">
 <img width="25px" src="./assets/quote.png">
 <br/>
-<strong align="center">Why do programmers prefer dark mode?</strong>
+<strong align="center">What did the computer do at lunchtime?</strong>
 <br/>
-<span align="center">Because light attracts bugs.</span>
+<span align="center">Had a byte.</span>
 </p>
 
 <!-- Socials -->
