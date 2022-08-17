@@ -181,9 +181,9 @@
 <p align="center">
 <img width="25px" src="./assets/quote.png">
 <br/>
-<strong align="center">0 is false and 1 is true right?</strong>
+<strong align="center">Why do Front-End Developers eat lunch alone?</strong>
 <br/>
-<span align="center">1</span>
+<span align="center">Because, they don&#39;t know how to join tables.</span>
 </p>
 
 <!-- Socials -->
