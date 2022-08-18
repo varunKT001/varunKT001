@@ -181,9 +181,9 @@
 <p align="center">
 <img width="25px" src="./assets/quote.png">
 <br/>
-<strong align="center">What did JavaScript call his son?</strong>
+<strong align="center">What is a programmer&#39;s favorite hangout place?</strong>
 <br/>
-<span align="center">JSON</span>
+<span align="center">Foo Bar</span>
 </p>
 
 <!-- Socials -->
