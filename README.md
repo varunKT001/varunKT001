@@ -181,9 +181,9 @@
 <p align="center">
 <img width="25px" src="./assets/quote.png">
 <br/>
-<strong align="center">Why do developers use mechanical keyboards?</strong>
+<strong align="center">Why was the computer freezing?</strong>
 <br/>
-<span align="center">To strongly type their code.</span>
+<span align="center">It left its Windows open.</span>
 </p>
 
 <!-- Socials -->
