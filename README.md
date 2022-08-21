@@ -181,9 +181,9 @@
 <p align="center">
 <img width="25px" src="./assets/quote.png">
 <br/>
-<strong align="center">Where did the API go to eat?</strong>
+<strong align="center">How do you comfort a JavaScript bug?</strong>
 <br/>
-<span align="center">To the RESTaurant.</span>
+<span align="center">You console it.</span>
 </p>
 
 <!-- Socials -->
