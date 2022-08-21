@@ -168,7 +168,7 @@
 
 <!-- Contributions -->
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=varunkt001&" alt="varunkt001" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats-2.herokuapp.com/?user=varunkt001&" alt="varunkt001" /></p>
 
 <!-- Github stats -->
 
@@ -181,9 +181,9 @@
 <p align="center">
 <img width="25px" src="./assets/quote.png">
 <br/>
-<strong align="center">How do you comfort a JavaScript bug?</strong>
+<strong align="center">Where did the API go to eat?</strong>
 <br/>
-<span align="center">You console it.</span>
+<span align="center">To the RESTaurant.</span>
 </p>
 
 <!-- Socials -->
