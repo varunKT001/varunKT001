@@ -181,9 +181,9 @@
 <p align="center">
 <img width="25px" src="./assets/quote.png">
 <br/>
-<strong align="center">Why did the constant break up with the variable?</strong>
+<strong align="center">Where did the API go to eat?</strong>
 <br/>
-<span align="center">Because they changed.</span>
+<span align="center">To the RESTaurant.</span>
 </p>
 
 <!-- Socials -->
