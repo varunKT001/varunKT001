@@ -155,51 +155,8 @@
     <td><a href="https://www.npmjs.com/package/tloc" target="_blank" rel="noopener noreferrer">npm</a></td>
   </tr>
   <tr>
-    <td><a href="https://github.com/varunKT001/personal-portfolio" target="_blank" rel="noopener noreferrer">personal-portfolio</a></td>
-    <td>This is my portfolio website built with react and hosted with netlify.</td>
-    <td><a href="https://varuntiwari.xyz/" target="_blank" rel="noopener noreferrer">visit</a></td>
+    <td colspan="3" align="center"><a href="https://github.com/varunKT001?tab=repositories">View all projects</a></td>
   </tr>
-  <tr>
-    <td><a href="https://github.com/varunKT001/yeyebibi-generator" target="_blank" rel="noopener noreferrer">yeyebibi-generator</a></td>
-    <td>It&#39;s an encoder/decoder. An input string is encoded or decoded, and the output is displayed.</td>
-    <td><a href="https://varunkt001.github.io/yeyebibi-generator" target="_blank" rel="noopener noreferrer">visit</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/varunKT001/cpu-scheduler-ITIT-2206" target="_blank" rel="noopener noreferrer">cpu-scheduling-algorithms</a></td>
-    <td>CPU Scheduling algorithms are implemented using JavaScript.</td>
-    <td><a href="https://varunkt001.github.io/cpu-scheduler-ITIT-2206/" target="_blank" rel="noopener noreferrer">visit</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/varunKT001/opencode-snake-game" target="_blank" rel="noopener noreferrer">opencode-snake-game</a></td>
-    <td>This Snake game is built using React.js and Bootstrap for the biggest open-source event, OpenCode&#39;21.</td>
-    <td><a href="https://opencode-snake-game.netlify.app/" target="_blank" rel="noopener noreferrer">visit</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/varunKT001/opencode-personal-website" target="_blank" rel="noopener noreferrer">opencode-personal-website</a></td>
-    <td>This personal portfolio website is built using HTML, CSS, and Bootstrap for the biggest open-source event, OpenCode&#39;21.</td>
-    <td><a href="https://varunkt001.github.io/opencode-personal-website/" target="_blank" rel="noopener noreferrer">visit</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/varunKT001/tcc" target="_blank" rel="noopener noreferrer">tcc</a></td>
-    <td>Its a test project for learning how compilers and transpilers like babel work behind the scenes.</td>
-    <td><a href="https://github.com/varunKT001/tcc" target="_blank" rel="noopener noreferrer">visit</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/varunKT001/tomper-chitchat-frontend" target="_blank" rel="noopener noreferrer">tomper-chitchat</a></td>
-    <td>Tomper Chit Chat is a web-based chatting application, allowing users to either chat in public rooms or make their own rooms, by providing a unique room ID.</td>
-    <td><a href="https://tomper-chitchat.netlify.app/" target="_blank" rel="noopener noreferrer">visit</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/varunKT001/sudarshan" target="_blank" rel="noopener noreferrer">sudarshan</a></td>
-    <td>Sudarshan an online tool allows users to alter the size of images as per their needs.</td>
-    <td><a href="https://sudarshan.netlify.app/" target="_blank" rel="noopener noreferrer">visit</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/varunKT001/blogg-frontend" target="_blank" rel="noopener noreferrer">blogg</a></td>
-    <td>Blogg is a platform where people with different backgrounds can share their expertise and experiences.</td>
-    <td><a href="https://tomperblogg.netlify.app/" target="_blank" rel="noopener noreferrer">visit</a></td>
-  </tr>
-
 </tbody>
 </table>
 
@@ -224,9 +181,9 @@
 <p align="center">
 <img width="25px" src="./assets/quote.png">
 <br/>
-<strong align="center">What did the computer do at lunchtime?</strong>
+<strong align="center">How do you comfort a JavaScript bug?</strong>
 <br/>
-<span align="center">Had a byte.</span>
+<span align="center">You console it.</span>
 </p>
 
 <!-- Socials -->
