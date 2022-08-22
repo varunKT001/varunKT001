@@ -181,9 +181,9 @@
 <p align="center">
 <img width="25px" src="./assets/quote.png">
 <br/>
-<strong align="center">Why do backend devs never run out of energy?</strong>
+<strong align="center">What are your plans for the weekend?</strong>
 <br/>
-<span align="center">They build REST APIs.</span>
+<span align="center">I know Front-end and Back-end, what is week-end?</span>
 </p>
 
 <!-- Socials -->
