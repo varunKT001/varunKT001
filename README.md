@@ -181,9 +181,9 @@
 <p align="center">
 <img width="25px" src="./assets/quote.png">
 <br/>
-<strong align="center">What did JavaScript call his son?</strong>
+<strong align="center">How do you stop a web developer stealing your stuff?</strong>
 <br/>
-<span align="center">JSON</span>
+<span align="center">Write 403 on it.</span>
 </p>
 
 <!-- Socials -->
