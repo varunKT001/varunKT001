@@ -130,9 +130,9 @@
     <td><a href="https://tomper-chat.herokuapp.com/" target="_blank" rel="noopener noreferrer">visit</a></td>
   </tr>
   <tr>
-    <td><a href="https://github.com/varunKT001/tomper-readme-generator" target="_blank" rel="noopener noreferrer">tomper-readmify</a></td>
+    <td><a href="https://github.com/varunKT001/tomper-readmify" target="_blank" rel="noopener noreferrer">tomper-readmify</a></td>
     <td>Generate your Github Profile Readme using the best templates (UNDER DEVELOPMENT).</td>
-    <td><a href="https://tomper-readme-generator.herokuapp.com/" target="_blank" rel="noopener noreferrer">visit</a></td>
+    <td><a href="https://tomper-readmify.herokuapp.com/" target="_blank" rel="noopener noreferrer">visit</a></td>
   </tr>
   <tr>
     <td><a href="https://github.com/varunKT001/tomper-jobs" target="_blank" rel="noopener noreferrer">tomper-jobs</a></td>
@@ -181,9 +181,9 @@
 <p align="center">
 <img width="25px" src="./assets/quote.png">
 <br/>
-<strong align="center">Why did the constant break up with the variable?</strong>
+<strong align="center">Why did the computer keep sneezing?</strong>
 <br/>
-<span align="center">Because they changed.</span>
+<span align="center">It has a virus.</span>
 </p>
 
 <!-- Socials -->
