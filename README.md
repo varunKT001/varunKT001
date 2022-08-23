@@ -130,7 +130,7 @@
     <td><a href="https://tomper-chat.herokuapp.com/" target="_blank" rel="noopener noreferrer">visit</a></td>
   </tr>
   <tr>
-    <td><a href="https://github.com/varunKT001/tomper-readme-generator" target="_blank" rel="noopener noreferrer">tomper-readme-generator</a></td>
+    <td><a href="https://github.com/varunKT001/tomper-readme-generator" target="_blank" rel="noopener noreferrer">tomper-readmify</a></td>
     <td>Generate your Github Profile Readme using the best templates (UNDER DEVELOPMENT).</td>
     <td><a href="https://tomper-readme-generator.herokuapp.com/" target="_blank" rel="noopener noreferrer">visit</a></td>
   </tr>
@@ -181,9 +181,9 @@
 <p align="center">
 <img width="25px" src="./assets/quote.png">
 <br/>
-<strong align="center">Why do backend devs never run out of energy?</strong>
+<strong align="center">Why did the constant break up with the variable?</strong>
 <br/>
-<span align="center">They build REST APIs.</span>
+<span align="center">Because they changed.</span>
 </p>
 
 <!-- Socials -->
