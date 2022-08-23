@@ -181,9 +181,9 @@
 <p align="center">
 <img width="25px" src="./assets/quote.png">
 <br/>
-<strong align="center">Why did the computer keep sneezing?</strong>
+<strong align="center">What&#39;s the second movie about a database engineer called?</strong>
 <br/>
-<span align="center">It has a virus.</span>
+<span align="center">The SQL.</span>
 </p>
 
 <!-- Socials -->
