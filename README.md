@@ -181,9 +181,9 @@
 <p align="center">
 <img width="25px" src="./assets/quote.png">
 <br/>
-<strong align="center">Which programming language is the shortest?</strong>
+<strong align="center">What accomodations did the JavaScript developer request at the hotel?</strong>
 <br/>
-<span align="center">HTML, because it doesn&#39;t have a neck between head and body.</span>
+<span align="center">A room with a Vue.</span>
 </p>
 
 <!-- Socials -->
