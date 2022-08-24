@@ -181,9 +181,9 @@
 <p align="center">
 <img width="25px" src="./assets/quote.png">
 <br/>
-<strong align="center">How many developers does it take to change a light bulb?</strong>
+<strong align="center">Which programming language is the shortest?</strong>
 <br/>
-<span align="center">None. It&#39;s a hardware issue.</span>
+<span align="center">HTML, because it doesn&#39;t have a neck between head and body.</span>
 </p>
 
 <!-- Socials -->
