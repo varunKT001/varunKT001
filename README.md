@@ -181,9 +181,9 @@
 <p align="center">
 <img width="25px" src="./assets/quote.png">
 <br/>
-<strong align="center">What&#39;s the second movie about a database engineer called?</strong>
+<strong align="center">How many developers does it take to change a light bulb?</strong>
 <br/>
-<span align="center">The SQL.</span>
+<span align="center">None. It&#39;s a hardware issue.</span>
 </p>
 
 <!-- Socials -->
