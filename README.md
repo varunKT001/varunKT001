@@ -181,9 +181,9 @@
 <p align="center">
 <img width="25px" src="./assets/quote.png">
 <br/>
-<strong align="center">Waitress: Do you have any questions about the menu?</strong>
+<strong align="center">When do front end developers go out to eat?</strong>
 <br/>
-<span align="center">Dev: What kind of font it is?</span>
+<span align="center">On their lunch &amp;lt;br&amp;gt;.</span>
 </p>
 
 <!-- Socials -->
