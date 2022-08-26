@@ -181,9 +181,9 @@
 <p align="center">
 <img width="25px" src="./assets/quote.png">
 <br/>
-<strong align="center">Why don&#39;t bachelors like Git?</strong>
+<strong align="center">What&#39;s IKEA&#39;s favorite programming language?</strong>
 <br/>
-<span align="center">Because they are afraid to commit.</span>
+<span align="center">Assembly</span>
 </p>
 
 <!-- Socials -->
