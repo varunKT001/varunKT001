@@ -181,9 +181,9 @@
 <p align="center">
 <img width="25px" src="./assets/quote.png">
 <br/>
-<strong align="center">What&#39;s the object oriented way to become rich?</strong>
+<strong align="center">Who won the debate for the best name for loop variable?</strong>
 <br/>
-<span align="center">Inheritance</span>
+<span align="center">&#39;i&#39; won.</span>
 </p>
 
 <!-- Socials -->
