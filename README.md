@@ -181,9 +181,9 @@
 <p align="center">
 <img width="25px" src="./assets/quote.png">
 <br/>
-<strong align="center">What is the hardest part in programming?</strong>
+<strong align="center">What&#39;s the object oriented way to become rich?</strong>
 <br/>
-<span align="center">Naming variables.</span>
+<span align="center">Inheritance</span>
 </p>
 
 <!-- Socials -->
