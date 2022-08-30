@@ -181,9 +181,9 @@
 <p align="center">
 <img width="25px" src="./assets/quote.png">
 <br/>
-<strong align="center">What is the hardest part in programming?</strong>
+<strong align="center">Why did the developer go broke?</strong>
 <br/>
-<span align="center">Naming variables.</span>
+<span align="center">Because they used up all their cache.</span>
 </p>
 
 <!-- Socials -->
