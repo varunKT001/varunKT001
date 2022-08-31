@@ -181,9 +181,9 @@
 <p align="center">
 <img width="25px" src="./assets/quote.png">
 <br/>
-<strong align="center">Why did the computer keep sneezing?</strong>
+<strong align="center">Why was the computer freezing?</strong>
 <br/>
-<span align="center">It has a virus.</span>
+<span align="center">It left its Windows open.</span>
 </p>
 
 <!-- Socials -->
