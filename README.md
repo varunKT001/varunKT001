@@ -181,9 +181,9 @@
 <p align="center">
 <img width="25px" src="./assets/quote.png">
 <br/>
-<strong align="center">Why was the computer freezing?</strong>
+<strong align="center">Are computers dangerous?</strong>
 <br/>
-<span align="center">It left its Windows open.</span>
+<span align="center">Nah, they don&#39;t byte.</span>
 </p>
 
 <!-- Socials -->
