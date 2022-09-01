@@ -181,9 +181,9 @@
 <p align="center">
 <img width="25px" src="./assets/quote.png">
 <br/>
-<strong align="center">What&#39;s IKEA&#39;s favorite programming language?</strong>
+<strong align="center">How do you comfort a JavaScript bug?</strong>
 <br/>
-<span align="center">Assembly</span>
+<span align="center">You console it.</span>
 </p>
 
 <!-- Socials -->
