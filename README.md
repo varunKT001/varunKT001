@@ -181,9 +181,9 @@
 <p align="center">
 <img width="25px" src="./assets/quote.png">
 <br/>
-<strong align="center">Asynchronous JavaScript is amazing.</strong>
+<strong align="center">What&#39;s IKEA&#39;s favorite programming language?</strong>
 <br/>
-<span align="center">I Promise you, aWait and See</span>
+<span align="center">Assembly</span>
 </p>
 
 <!-- Socials -->
