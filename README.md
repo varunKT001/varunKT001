@@ -181,9 +181,9 @@
 <p align="center">
 <img width="25px" src="./assets/quote.png">
 <br/>
-<strong align="center">Why do Front-End Developers eat lunch alone?</strong>
+<strong align="center">Why are machine learning models so fit?</strong>
 <br/>
-<span align="center">Because, they don&#39;t know how to join tables.</span>
+<span align="center">Because they do weight training.</span>
 </p>
 
 <!-- Socials -->
