@@ -181,9 +181,9 @@
 <p align="center">
 <img width="25px" src="./assets/quote.png">
 <br/>
-<strong align="center">Where do programmer dad&#39;s store their jokes?</strong>
+<strong align="center">Why was nobody given food at the developer conference?</strong>
 <br/>
-<span align="center">In a dad-a-base.</span>
+<span align="center">It was a serverless function.</span>
 </p>
 
 <!-- Socials -->
