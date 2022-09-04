@@ -181,9 +181,9 @@
 <p align="center">
 <img width="25px" src="./assets/quote.png">
 <br/>
-<strong align="center">0 is false and 1 is true right?</strong>
+<strong align="center">Where do programmer dad&#39;s store their jokes?</strong>
 <br/>
-<span align="center">1</span>
+<span align="center">In a dad-a-base.</span>
 </p>
 
 <!-- Socials -->
