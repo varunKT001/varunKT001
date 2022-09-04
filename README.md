@@ -181,9 +181,9 @@
 <p align="center">
 <img width="25px" src="./assets/quote.png">
 <br/>
-<strong align="center">What did the computer do at lunchtime?</strong>
+<strong align="center">0 is false and 1 is true right?</strong>
 <br/>
-<span align="center">Had a byte.</span>
+<span align="center">1</span>
 </p>
 
 <!-- Socials -->
