@@ -181,9 +181,9 @@
 <p align="center">
 <img width="25px" src="./assets/quote.png">
 <br/>
-<strong align="center">What are your plans for the weekend?</strong>
+<strong align="center">A SQL query goes into a bar, walks up to two tables and asks:</strong>
 <br/>
-<span align="center">I know Front-end and Back-end, what is week-end?</span>
+<span align="center">&#34;Can I join you?&#34;</span>
 </p>
 
 <!-- Socials -->
