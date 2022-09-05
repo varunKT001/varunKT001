@@ -181,9 +181,9 @@
 <p align="center">
 <img width="25px" src="./assets/quote.png">
 <br/>
-<strong align="center">How do you know your baby is going to be a developer when they grow up?</strong>
+<strong align="center">Why do all HTML emails get blocked?</strong>
 <br/>
-<span align="center">Their first word is Hello World.</span>
+<span align="center">Because they are all spans.</span>
 </p>
 
 <!-- Socials -->
