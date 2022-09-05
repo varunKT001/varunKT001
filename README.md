@@ -181,9 +181,9 @@
 <p align="center">
 <img width="25px" src="./assets/quote.png">
 <br/>
-<strong align="center">Why was nobody given food at the developer conference?</strong>
+<strong align="center">How do you know your baby is going to be a developer when they grow up?</strong>
 <br/>
-<span align="center">It was a serverless function.</span>
+<span align="center">Their first word is Hello World.</span>
 </p>
 
 <!-- Socials -->
