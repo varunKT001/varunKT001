@@ -181,9 +181,9 @@
 <p align="center">
 <img width="25px" src="./assets/quote.png">
 <br/>
-<strong align="center">Why do all HTML emails get blocked?</strong>
+<strong align="center">What are your plans for the weekend?</strong>
 <br/>
-<span align="center">Because they are all spans.</span>
+<span align="center">I know Front-end and Back-end, what is week-end?</span>
 </p>
 
 <!-- Socials -->
