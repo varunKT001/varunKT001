@@ -181,9 +181,9 @@
 <p align="center">
 <img width="25px" src="./assets/quote.png">
 <br/>
-<strong align="center">What is the hardest part in programming?</strong>
+<strong align="center">What are clouds made of?</strong>
 <br/>
-<span align="center">Naming variables.</span>
+<span align="center">Mostly linux servers.</span>
 </p>
 
 <!-- Socials -->
