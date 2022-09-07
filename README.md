@@ -181,9 +181,9 @@
 <p align="center">
 <img width="25px" src="./assets/quote.png">
 <br/>
-<strong align="center">What are clouds made of?</strong>
+<strong align="center">What do you call a doctor who fixes websites?</strong>
 <br/>
-<span align="center">Mostly linux servers.</span>
+<span align="center">A URLogist</span>
 </p>
 
 <!-- Socials -->
