@@ -181,9 +181,9 @@
 <p align="center">
 <img width="25px" src="./assets/quote.png">
 <br/>
-<strong align="center">What do you call a doctor who fixes websites?</strong>
+<strong align="center">What did the process say after working in an infinite loop all day?</strong>
 <br/>
-<span align="center">A URLogist</span>
+<span align="center">I need a break.</span>
 </p>
 
 <!-- Socials -->
