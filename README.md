@@ -181,9 +181,9 @@
 <p align="center">
 <img width="25px" src="./assets/quote.png">
 <br/>
-<strong align="center">What did the process say after working in an infinite loop all day?</strong>
+<strong align="center">Why do Java programmers wear glasses?</strong>
 <br/>
-<span align="center">I need a break.</span>
+<span align="center">Because they don&#39;t C#.</span>
 </p>
 
 <!-- Socials -->
