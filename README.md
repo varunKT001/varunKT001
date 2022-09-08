@@ -181,9 +181,9 @@
 <p align="center">
 <img width="25px" src="./assets/quote.png">
 <br/>
-<strong align="center">What are clouds made of?</strong>
+<strong align="center">Why was nobody given food at the developer conference?</strong>
 <br/>
-<span align="center">Mostly linux servers.</span>
+<span align="center">It was a serverless function.</span>
 </p>
 
 <!-- Socials -->
