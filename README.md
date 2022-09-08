@@ -181,9 +181,9 @@
 <p align="center">
 <img width="25px" src="./assets/quote.png">
 <br/>
-<strong align="center">What did the developer say to their friend who was having a bad day?</strong>
+<strong align="center">Why did the functions stop calling each other?</strong>
 <br/>
-<span align="center">Everything&#39;s going to be 200.</span>
+<span align="center">Because they had constant arguments.</span>
 </p>
 
 <!-- Socials -->
