@@ -181,9 +181,9 @@
 <p align="center">
 <img width="25px" src="./assets/quote.png">
 <br/>
-<strong align="center">While there is code</strong>
+<strong align="center">What did the fruit basket say to the developer?</strong>
 <br/>
-<span align="center">There is bug</span>
+<span align="center">I hope you&#39;re ready for some pear programming.</span>
 </p>
 
 <!-- Socials -->
