@@ -181,9 +181,9 @@
 <p align="center">
 <img width="25px" src="./assets/quote.png">
 <br/>
-<strong align="center">What&#39;s the object oriented way to become rich?</strong>
+<strong align="center">Why do programmers prefer dark mode?</strong>
 <br/>
-<span align="center">Inheritance</span>
+<span align="center">Because light attracts bugs.</span>
 </p>
 
 <!-- Socials -->
