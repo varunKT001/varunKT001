@@ -181,9 +181,9 @@
 <p align="center">
 <img width="25px" src="./assets/quote.png">
 <br/>
-<strong align="center">What did the Python say when they came out of the shell?</strong>
+<strong align="center">What&#39;s the object oriented way to become rich?</strong>
 <br/>
-<span align="center">Print(&#34;Hello World!&#34;)</span>
+<span align="center">Inheritance</span>
 </p>
 
 <!-- Socials -->
