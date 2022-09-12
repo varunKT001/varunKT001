@@ -181,9 +181,9 @@
 <p align="center">
 <img width="25px" src="./assets/quote.png">
 <br/>
-<strong align="center">Why did the functions stop calling each other?</strong>
+<strong align="center">Why was nobody given food at the developer conference?</strong>
 <br/>
-<span align="center">Because they had constant arguments.</span>
+<span align="center">It was a serverless function.</span>
 </p>
 
 <!-- Socials -->
