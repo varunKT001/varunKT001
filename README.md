@@ -181,9 +181,9 @@
 <p align="center">
 <img width="25px" src="./assets/quote.png">
 <br/>
-<strong align="center">Where did the API go to eat?</strong>
+<strong align="center">What did the developer say to their friend who was having a bad day?</strong>
 <br/>
-<span align="center">To the RESTaurant.</span>
+<span align="center">Everything&#39;s going to be 200.</span>
 </p>
 
 <!-- Socials -->
