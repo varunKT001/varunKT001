@@ -181,9 +181,9 @@
 <p align="center">
 <img width="25px" src="./assets/quote.png">
 <br/>
-<strong align="center">What did the Class say in court when put on trial?</strong>
+<strong align="center">What&#39;s the object oriented way to become rich?</strong>
 <br/>
-<span align="center">I strongly object!</span>
+<span align="center">Inheritance</span>
 </p>
 
 <!-- Socials -->
