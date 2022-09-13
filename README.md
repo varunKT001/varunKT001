@@ -181,9 +181,9 @@
 <p align="center">
 <img width="25px" src="./assets/quote.png">
 <br/>
-<strong align="center">Why do backend devs never run out of energy?</strong>
+<strong align="center">What advice do you give to a JS developer who has never played baseball?</strong>
 <br/>
-<span align="center">They build REST APIs.</span>
+<span align="center">Try Catch.</span>
 </p>
 
 <!-- Socials -->
