@@ -181,9 +181,9 @@
 <p align="center">
 <img width="25px" src="./assets/quote.png">
 <br/>
-<strong align="center">Why did the developer go broke?</strong>
+<strong align="center">What did the computer do at lunchtime?</strong>
 <br/>
-<span align="center">Because they used up all their cache.</span>
+<span align="center">Had a byte.</span>
 </p>
 
 <!-- Socials -->
