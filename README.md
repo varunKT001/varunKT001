@@ -181,9 +181,9 @@
 <p align="center">
 <img width="25px" src="./assets/quote.png">
 <br/>
-<strong align="center">Why did the developer cancel their dinner plans?</strong>
+<strong align="center">Asynchronous JavaScript is amazing.</strong>
 <br/>
-<span align="center">They were unable to fulfil peer dependencies.</span>
+<span align="center">I Promise you, aWait and See</span>
 </p>
 
 <!-- Socials -->
