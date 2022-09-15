@@ -181,9 +181,9 @@
 <p align="center">
 <img width="25px" src="./assets/quote.png">
 <br/>
-<strong align="center">Asynchronous JavaScript is amazing.</strong>
+<strong align="center">While there is code</strong>
 <br/>
-<span align="center">I Promise you, aWait and See</span>
+<span align="center">There is bug</span>
 </p>
 
 <!-- Socials -->
