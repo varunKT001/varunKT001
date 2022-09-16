@@ -181,9 +181,9 @@
 <p align="center">
 <img width="25px" src="./assets/quote.png">
 <br/>
-<strong align="center">While there is code</strong>
+<strong align="center">Why did the developer cancel their dinner plans?</strong>
 <br/>
-<span align="center">There is bug</span>
+<span align="center">They were unable to fulfil peer dependencies.</span>
 </p>
 
 <!-- Socials -->
