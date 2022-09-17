@@ -181,9 +181,9 @@
 <p align="center">
 <img width="25px" src="./assets/quote.png">
 <br/>
-<strong align="center">Why are machine learning models so fit?</strong>
+<strong align="center">What is a programmer&#39;s favorite hangout place?</strong>
 <br/>
-<span align="center">Because they do weight training.</span>
+<span align="center">Foo Bar</span>
 </p>
 
 <!-- Socials -->
