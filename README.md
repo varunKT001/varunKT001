@@ -181,9 +181,9 @@
 <p align="center">
 <img width="25px" src="./assets/quote.png">
 <br/>
-<strong align="center">Why do Java programmers wear glasses?</strong>
+<strong align="center">Why are machine learning models so fit?</strong>
 <br/>
-<span align="center">Because they don&#39;t C#.</span>
+<span align="center">Because they do weight training.</span>
 </p>
 
 <!-- Socials -->
