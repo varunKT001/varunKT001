@@ -181,9 +181,9 @@
 <p align="center">
 <img width="25px" src="./assets/quote.png">
 <br/>
-<strong align="center">What is a programmer&#39;s favorite hangout place?</strong>
+<strong align="center">Why did the functions stop calling each other?</strong>
 <br/>
-<span align="center">Foo Bar</span>
+<span align="center">Because they had constant arguments.</span>
 </p>
 
 <!-- Socials -->
