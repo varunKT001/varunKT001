@@ -181,9 +181,9 @@
 <p align="center">
 <img width="25px" src="./assets/quote.png">
 <br/>
-<strong align="center">How did your dog eat your coding assignment?</strong>
+<strong align="center">Why do C# and Java developers keep breaking their keyboards?</strong>
 <br/>
-<span align="center">It took him a couple bytes.</span>
+<span align="center">Because they use a strongly typed language.</span>
 </p>
 
 <!-- Socials -->
