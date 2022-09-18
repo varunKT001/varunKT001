@@ -181,9 +181,9 @@
 <p align="center">
 <img width="25px" src="./assets/quote.png">
 <br/>
-<strong align="center">What accomodations did the JavaScript developer request at the hotel?</strong>
+<strong align="center">How did your dog eat your coding assignment?</strong>
 <br/>
-<span align="center">A room with a Vue.</span>
+<span align="center">It took him a couple bytes.</span>
 </p>
 
 <!-- Socials -->
