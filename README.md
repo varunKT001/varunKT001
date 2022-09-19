@@ -181,9 +181,9 @@
 <p align="center">
 <img width="25px" src="./assets/quote.png">
 <br/>
-<strong align="center">Why do assembly level programmers need to know how to swim?</strong>
+<strong align="center">Why did the document store go out of business?</strong>
 <br/>
-<span align="center">Because they work below C level.</span>
+<span align="center">It has NoSQL.</span>
 </p>
 
 <!-- Socials -->
