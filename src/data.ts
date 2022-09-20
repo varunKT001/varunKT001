@@ -9,6 +9,11 @@ export const view = {
   blogs: [
     `[**git set go** 🐱‍👤](https://medium.com/tech-iiitg/git-set-go-950bfb8fdf19) (Published at [**tech@iiitm-gwalior**](https://medium.com/tech-iiitg) publication)`,
     `[**What I learned through OpenCode!**](https://medium.com/nybles/what-i-learned-through-opencode-39622d7c7024) (Published at [**Nybles**](https://medium.com/nybles) publication)`,
+    `[**How to use Node JS with HTML? Guide on rendering HTML on server with Node**](https://codedamn.com/news/nodejs/use-nodejs-with-html) (Published at [**Codedamn**](https://codedamn.com/news) publication)`,
+    `[**What is Vite JS? How to use Vite JS in your projects?**](https://codedamn.com/news/javascript/what-is-vite-js) (Published at [**Codedamn**](https://codedamn.com/news) publication)`,
+    `[**How to use fetch in React? Fetch data from APIs in React.js**](https://codedamn.com/news/reactjs/how-to-use-fetch-in-react) (Published at [**Codedamn**](https://codedamn.com/news) publication)`,
+    `[**How to Remove an NPM Package: npm uninstall Guide**](https://codedamn.com/news/nodejs/remove-npm-package) (Published at [**Codedamn**](https://codedamn.com/news) publication)`,
+    `[**How to run JavaScript? Run JavaScript Files online**](https://codedamn.com/news/javascript/how-to-run-javascript-file) (Published at [**Codedamn**](https://codedamn.com/news) publication)`,
   ],
   skillBadges: [
     {
