@@ -181,9 +181,9 @@
 <p align="center">
 <img width="25px" src="./assets/quote.png">
 <br/>
-<strong align="center">Why do developers use mechanical keyboards?</strong>
+<strong align="center">What accomodations did the JavaScript developer request at the hotel?</strong>
 <br/>
-<span align="center">To strongly type their code.</span>
+<span align="center">A room with a Vue.</span>
 </p>
 
 <!-- Socials -->
