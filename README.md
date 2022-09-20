@@ -181,9 +181,9 @@
 <p align="center">
 <img width="25px" src="./assets/quote.png">
 <br/>
-<strong align="center">Why do C# and Java developers keep breaking their keyboards?</strong>
+<strong align="center">Why are machine learning models so fit?</strong>
 <br/>
-<span align="center">Because they use a strongly typed language.</span>
+<span align="center">Because they do weight training.</span>
 </p>
 
 <!-- Socials -->
