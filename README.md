@@ -186,9 +186,9 @@
 <p align="center">
 <img width="25px" src="./assets/quote.png">
 <br/>
-<strong align="center">Where did the API go to eat?</strong>
+<strong align="center">A SQL query goes into a bar, walks up to two tables and asks:</strong>
 <br/>
-<span align="center">To the RESTaurant.</span>
+<span align="center">&#34;Can I join you?&#34;</span>
 </p>
 
 <!-- Socials -->
