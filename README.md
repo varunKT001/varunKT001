@@ -186,9 +186,9 @@
 <p align="center">
 <img width="25px" src="./assets/quote.png">
 <br/>
-<strong align="center">A SQL query goes into a bar, walks up to two tables and asks:</strong>
+<strong align="center">Why are keyboards always working so hard?</strong>
 <br/>
-<span align="center">&#34;Can I join you?&#34;</span>
+<span align="center">Cause they have two shifts.</span>
 </p>
 
 <!-- Socials -->
