@@ -186,9 +186,9 @@
 <p align="center">
 <img width="25px" src="./assets/quote.png">
 <br/>
-<strong align="center">How do you know your baby is going to be a developer when they grow up?</strong>
+<strong align="center">What accomodations did the JavaScript developer request at the hotel?</strong>
 <br/>
-<span align="center">Their first word is Hello World.</span>
+<span align="center">A room with a Vue.</span>
 </p>
 
 <!-- Socials -->
