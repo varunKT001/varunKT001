@@ -186,9 +186,9 @@
 <p align="center">
 <img width="25px" src="./assets/quote.png">
 <br/>
-<strong align="center">What accomodations did the JavaScript developer request at the hotel?</strong>
+<strong align="center">Why do assembly level programmers need to know how to swim?</strong>
 <br/>
-<span align="center">A room with a Vue.</span>
+<span align="center">Because they work below C level.</span>
 </p>
 
 <!-- Socials -->
