@@ -186,9 +186,9 @@
 <p align="center">
 <img width="25px" src="./assets/quote.png">
 <br/>
-<strong align="center">How did your dog eat your coding assignment?</strong>
+<strong align="center">How do you know your baby is going to be a developer when they grow up?</strong>
 <br/>
-<span align="center">It took him a couple bytes.</span>
+<span align="center">Their first word is Hello World.</span>
 </p>
 
 <!-- Socials -->
