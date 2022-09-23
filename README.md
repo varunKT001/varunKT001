@@ -186,9 +186,9 @@
 <p align="center">
 <img width="25px" src="./assets/quote.png">
 <br/>
-<strong align="center">Why don&#39;t bachelors like Git?</strong>
+<strong align="center">What do you call a doctor who fixes websites?</strong>
 <br/>
-<span align="center">Because they are afraid to commit.</span>
+<span align="center">A URLogist</span>
 </p>
 
 <!-- Socials -->
