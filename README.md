@@ -186,9 +186,9 @@
 <p align="center">
 <img width="25px" src="./assets/quote.png">
 <br/>
-<strong align="center">Why do assembly level programmers need to know how to swim?</strong>
+<strong align="center">Why don&#39;t bachelors like Git?</strong>
 <br/>
-<span align="center">Because they work below C level.</span>
+<span align="center">Because they are afraid to commit.</span>
 </p>
 
 <!-- Socials -->
