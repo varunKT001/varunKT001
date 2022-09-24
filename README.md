@@ -186,9 +186,9 @@
 <p align="center">
 <img width="25px" src="./assets/quote.png">
 <br/>
-<strong align="center">Why does keyboard sleep?</strong>
+<strong align="center">Exercise for others - 160 calories burned.</strong>
 <br/>
-<span align="center">Because it has two shifts.</span>
+<span align="center">Exercise for coders - 60 bugs fixed.</span>
 </p>
 
 <!-- Socials -->
