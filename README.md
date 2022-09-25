@@ -186,9 +186,9 @@
 <p align="center">
 <img width="25px" src="./assets/quote.png">
 <br/>
-<strong align="center">What&#39;s the object oriented way to become rich?</strong>
+<strong align="center">What did the computer do at lunchtime?</strong>
 <br/>
-<span align="center">Inheritance</span>
+<span align="center">Had a byte.</span>
 </p>
 
 <!-- Socials -->
