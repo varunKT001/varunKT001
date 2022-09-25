@@ -186,9 +186,9 @@
 <p align="center">
 <img width="25px" src="./assets/quote.png">
 <br/>
-<strong align="center">What did the computer do at lunchtime?</strong>
+<strong align="center">When do front end developers go out to eat?</strong>
 <br/>
-<span align="center">Had a byte.</span>
+<span align="center">On their lunch &amp;lt;br&amp;gt;.</span>
 </p>
 
 <!-- Socials -->
