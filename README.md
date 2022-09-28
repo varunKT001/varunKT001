@@ -186,9 +186,9 @@
 <p align="center">
 <img width="25px" src="./assets/quote.png">
 <br/>
-<strong align="center">Why do all HTML emails get blocked?</strong>
+<strong align="center">Which programming language is the shortest?</strong>
 <br/>
-<span align="center">Because they are all spans.</span>
+<span align="center">HTML, because it doesn&#39;t have a neck between head and body.</span>
 </p>
 
 <!-- Socials -->
