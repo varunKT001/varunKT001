@@ -186,9 +186,9 @@
 <p align="center">
 <img width="25px" src="./assets/quote.png">
 <br/>
-<strong align="center">What accomodations did the JavaScript developer request at the hotel?</strong>
+<strong align="center">Where did the API go to eat?</strong>
 <br/>
-<span align="center">A room with a Vue.</span>
+<span align="center">To the RESTaurant.</span>
 </p>
 
 <!-- Socials -->
