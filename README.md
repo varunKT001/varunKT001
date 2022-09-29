@@ -186,9 +186,9 @@
 <p align="center">
 <img width="25px" src="./assets/quote.png">
 <br/>
-<strong align="center">Who won the debate for the best name for loop variable?</strong>
+<strong align="center">Exercise for others - 160 calories burned.</strong>
 <br/>
-<span align="center">&#39;i&#39; won.</span>
+<span align="center">Exercise for coders - 60 bugs fixed.</span>
 </p>
 
 <!-- Socials -->
