@@ -186,9 +186,9 @@
 <p align="center">
 <img width="25px" src="./assets/quote.png">
 <br/>
-<strong align="center">Why do backend devs never run out of energy?</strong>
+<strong align="center">Why did the computer keep sneezing?</strong>
 <br/>
-<span align="center">They build REST APIs.</span>
+<span align="center">It has a virus.</span>
 </p>
 
 <!-- Socials -->
