@@ -186,9 +186,9 @@
 <p align="center">
 <img width="25px" src="./assets/quote.png">
 <br/>
-<strong align="center">Why do all HTML emails get blocked?</strong>
+<strong align="center">Why does keyboard sleep?</strong>
 <br/>
-<span align="center">Because they are all spans.</span>
+<span align="center">Because it has two shifts.</span>
 </p>
 
 <!-- Socials -->
