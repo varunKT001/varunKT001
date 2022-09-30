@@ -186,9 +186,9 @@
 <p align="center">
 <img width="25px" src="./assets/quote.png">
 <br/>
-<strong align="center">Exercise for others - 160 calories burned.</strong>
+<strong align="center">Why are machine learning models so fit?</strong>
 <br/>
-<span align="center">Exercise for coders - 60 bugs fixed.</span>
+<span align="center">Because they do weight training.</span>
 </p>
 
 <!-- Socials -->
