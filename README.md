@@ -186,9 +186,9 @@
 <p align="center">
 <img width="25px" src="./assets/quote.png">
 <br/>
-<strong align="center">Why do Java programmers wear glasses?</strong>
+<strong align="center">Got any funny DNS jokes?</strong>
 <br/>
-<span align="center">Because they don&#39;t C#.</span>
+<span align="center">Yeah, but It may take 24 hours to get it.</span>
 </p>
 
 <!-- Socials -->
