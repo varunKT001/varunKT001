@@ -186,9 +186,9 @@
 <p align="center">
 <img width="25px" src="./assets/quote.png">
 <br/>
-<strong align="center">Why do backend devs never run out of energy?</strong>
+<strong align="center">What does a baby computer call his father?</strong>
 <br/>
-<span align="center">They build REST APIs.</span>
+<span align="center">Data</span>
 </p>
 
 <!-- Socials -->
