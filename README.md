@@ -186,9 +186,9 @@
 <p align="center">
 <img width="25px" src="./assets/quote.png">
 <br/>
-<strong align="center">0 is false and 1 is true right?</strong>
+<strong align="center">An agent died unexpectedly. How was the crime solved?</strong>
 <br/>
-<span align="center">1</span>
+<span align="center">By looking at the stack trace.</span>
 </p>
 
 <!-- Socials -->
