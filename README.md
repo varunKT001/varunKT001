@@ -186,9 +186,9 @@
 <p align="center">
 <img width="25px" src="./assets/quote.png">
 <br/>
-<strong align="center">What does a baby computer call his father?</strong>
+<strong align="center">How do you know your baby is going to be a developer when they grow up?</strong>
 <br/>
-<span align="center">Data</span>
+<span align="center">Their first word is Hello World.</span>
 </p>
 
 <!-- Socials -->
