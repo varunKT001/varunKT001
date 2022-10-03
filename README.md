@@ -186,9 +186,9 @@
 <p align="center">
 <img width="25px" src="./assets/quote.png">
 <br/>
-<strong align="center">Algorithm (noun)</strong>
+<strong align="center">What are your plans for the weekend?</strong>
 <br/>
-<span align="center">Word used by programmers when.. they do not want to explain what they did.</span>
+<span align="center">I know Front-end and Back-end, what is week-end?</span>
 </p>
 
 <!-- Socials -->
