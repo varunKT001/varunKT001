@@ -186,9 +186,9 @@
 <p align="center">
 <img width="25px" src="./assets/quote.png">
 <br/>
-<strong align="center">What are your plans for the weekend?</strong>
+<strong align="center">What did spider do on the computer?</strong>
 <br/>
-<span align="center">I know Front-end and Back-end, what is week-end?</span>
+<span align="center">Made a website.</span>
 </p>
 
 <!-- Socials -->
