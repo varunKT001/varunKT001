@@ -186,9 +186,9 @@
 <p align="center">
 <img width="25px" src="./assets/quote.png">
 <br/>
-<strong align="center">Waitress: Do you have any questions about the menu?</strong>
+<strong align="center">What is the hardest part in programming?</strong>
 <br/>
-<span align="center">Dev: What kind of font it is?</span>
+<span align="center">Naming variables.</span>
 </p>
 
 <!-- Socials -->
