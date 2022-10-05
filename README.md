@@ -186,9 +186,9 @@
 <p align="center">
 <img width="25px" src="./assets/quote.png">
 <br/>
-<strong align="center">What did spider do on the computer?</strong>
+<strong align="center">Why did the constant break up with the variable?</strong>
 <br/>
-<span align="center">Made a website.</span>
+<span align="center">Because they changed.</span>
 </p>
 
 <!-- Socials -->
