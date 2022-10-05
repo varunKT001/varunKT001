@@ -186,9 +186,9 @@
 <p align="center">
 <img width="25px" src="./assets/quote.png">
 <br/>
-<strong align="center">Why did the constant break up with the variable?</strong>
+<strong align="center">How did your dog eat your coding assignment?</strong>
 <br/>
-<span align="center">Because they changed.</span>
+<span align="center">It took him a couple bytes.</span>
 </p>
 
 <!-- Socials -->
