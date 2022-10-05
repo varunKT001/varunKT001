@@ -186,9 +186,9 @@
 <p align="center">
 <img width="25px" src="./assets/quote.png">
 <br/>
-<strong align="center">When do front end developers go out to eat?</strong>
+<strong align="center">Why did the document store go out of business?</strong>
 <br/>
-<span align="center">On their lunch &amp;lt;br&amp;gt;.</span>
+<span align="center">It has NoSQL.</span>
 </p>
 
 <!-- Socials -->
