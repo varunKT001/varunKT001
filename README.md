@@ -186,9 +186,9 @@
 <p align="center">
 <img width="25px" src="./assets/quote.png">
 <br/>
-<strong align="center">Why aren&#39;t cryptocurrency engineers allowed to vote?</strong>
+<strong align="center">While there is code</strong>
 <br/>
-<span align="center">Because they are miners.</span>
+<span align="center">There is bug</span>
 </p>
 
 <!-- Socials -->
