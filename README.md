@@ -186,9 +186,9 @@
 <p align="center">
 <img width="25px" src="./assets/quote.png">
 <br/>
-<strong align="center">How do you know your baby is going to be a developer when they grow up?</strong>
+<strong align="center">Programmer (noun)</strong>
 <br/>
-<span align="center">Their first word is Hello World.</span>
+<span align="center">A machine that turns coffee into code.</span>
 </p>
 
 <!-- Socials -->
