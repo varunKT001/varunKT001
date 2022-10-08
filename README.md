@@ -186,9 +186,9 @@
 <p align="center">
 <img width="25px" src="./assets/quote.png">
 <br/>
-<strong align="center">What do you call a doctor who fixes websites?</strong>
+<strong align="center">Why do all HTML emails get blocked?</strong>
 <br/>
-<span align="center">A URLogist</span>
+<span align="center">Because they are all spans.</span>
 </p>
 
 <!-- Socials -->
