@@ -186,9 +186,9 @@
 <p align="center">
 <img width="25px" src="./assets/quote.png">
 <br/>
-<strong align="center">A SQL query goes into a bar, walks up to two tables and asks:</strong>
+<strong align="center">How do you stop a web developer stealing your stuff?</strong>
 <br/>
-<span align="center">&#34;Can I join you?&#34;</span>
+<span align="center">Write 403 on it.</span>
 </p>
 
 <!-- Socials -->
