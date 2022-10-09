@@ -186,9 +186,9 @@
 <p align="center">
 <img width="25px" src="./assets/quote.png">
 <br/>
-<strong align="center">How do you stop a web developer stealing your stuff?</strong>
+<strong align="center">Algorithm (noun)</strong>
 <br/>
-<span align="center">Write 403 on it.</span>
+<span align="center">Word used by programmers when.. they do not want to explain what they did.</span>
 </p>
 
 <!-- Socials -->
