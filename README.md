@@ -186,9 +186,9 @@
 <p align="center">
 <img width="25px" src="./assets/quote.png">
 <br/>
-<strong align="center">What did spider do on the computer?</strong>
+<strong align="center">Why does keyboard sleep?</strong>
 <br/>
-<span align="center">Made a website.</span>
+<span align="center">Because it has two shifts.</span>
 </p>
 
 <!-- Socials -->
