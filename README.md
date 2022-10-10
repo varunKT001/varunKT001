@@ -186,9 +186,9 @@
 <p align="center">
 <img width="25px" src="./assets/quote.png">
 <br/>
-<strong align="center">Why does keyboard sleep?</strong>
+<strong align="center">An agent died unexpectedly. How was the crime solved?</strong>
 <br/>
-<span align="center">Because it has two shifts.</span>
+<span align="center">By looking at the stack trace.</span>
 </p>
 
 <!-- Socials -->
