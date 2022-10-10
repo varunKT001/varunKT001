@@ -186,9 +186,9 @@
 <p align="center">
 <img width="25px" src="./assets/quote.png">
 <br/>
-<strong align="center">Algorithm (noun)</strong>
+<strong align="center">What did spider do on the computer?</strong>
 <br/>
-<span align="center">Word used by programmers when.. they do not want to explain what they did.</span>
+<span align="center">Made a website.</span>
 </p>
 
 <!-- Socials -->
