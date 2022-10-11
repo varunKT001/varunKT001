@@ -186,9 +186,9 @@
 <p align="center">
 <img width="25px" src="./assets/quote.png">
 <br/>
-<strong align="center">When do front end developers go out to eat?</strong>
+<strong align="center">Why did the developer cancel their dinner plans?</strong>
 <br/>
-<span align="center">On their lunch &amp;lt;br&amp;gt;.</span>
+<span align="center">They were unable to fulfil peer dependencies.</span>
 </p>
 
 <!-- Socials -->
