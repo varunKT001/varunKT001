@@ -186,9 +186,9 @@
 <p align="center">
 <img width="25px" src="./assets/quote.png">
 <br/>
-<strong align="center">What did the Python say when they came out of the shell?</strong>
+<strong align="center">How do you stop a web developer stealing your stuff?</strong>
 <br/>
-<span align="center">Print(&#34;Hello World!&#34;)</span>
+<span align="center">Write 403 on it.</span>
 </p>
 
 <!-- Socials -->
