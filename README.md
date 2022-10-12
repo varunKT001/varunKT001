@@ -186,9 +186,9 @@
 <p align="center">
 <img width="25px" src="./assets/quote.png">
 <br/>
-<strong align="center">Why do Front-End Developers eat lunch alone?</strong>
+<strong align="center">What did the Class say in court when put on trial?</strong>
 <br/>
-<span align="center">Because, they don&#39;t know how to join tables.</span>
+<span align="center">I strongly object!</span>
 </p>
 
 <!-- Socials -->
