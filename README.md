@@ -186,9 +186,9 @@
 <p align="center">
 <img width="25px" src="./assets/quote.png">
 <br/>
-<strong align="center">How do you stop a web developer stealing your stuff?</strong>
+<strong align="center">Why do Front-End Developers eat lunch alone?</strong>
 <br/>
-<span align="center">Write 403 on it.</span>
+<span align="center">Because, they don&#39;t know how to join tables.</span>
 </p>
 
 <!-- Socials -->
