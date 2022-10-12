@@ -186,9 +186,9 @@
 <p align="center">
 <img width="25px" src="./assets/quote.png">
 <br/>
-<strong align="center">Are computers dangerous?</strong>
+<strong align="center">Why couldn&#39;t web developer find their room in a hotel?</strong>
 <br/>
-<span align="center">Nah, they don&#39;t byte.</span>
+<span align="center">Because their room number was 404.</span>
 </p>
 
 <!-- Socials -->
