@@ -186,9 +186,9 @@
 <p align="center">
 <img width="25px" src="./assets/quote.png">
 <br/>
-<strong align="center">What did JavaScript call his son?</strong>
+<strong align="center">Why did the functions stop calling each other?</strong>
 <br/>
-<span align="center">JSON</span>
+<span align="center">Because they had constant arguments.</span>
 </p>
 
 <!-- Socials -->
