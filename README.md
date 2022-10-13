@@ -186,9 +186,9 @@
 <p align="center">
 <img width="25px" src="./assets/quote.png">
 <br/>
-<strong align="center">Why did the functions stop calling each other?</strong>
+<strong align="center">Where do programmer dad&#39;s store their jokes?</strong>
 <br/>
-<span align="center">Because they had constant arguments.</span>
+<span align="center">In a dad-a-base.</span>
 </p>
 
 <!-- Socials -->
