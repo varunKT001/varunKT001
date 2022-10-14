@@ -186,9 +186,9 @@
 <p align="center">
 <img width="25px" src="./assets/quote.png">
 <br/>
-<strong align="center">Algorithm (noun)</strong>
+<strong align="center">What accomodations did the JavaScript developer request at the hotel?</strong>
 <br/>
-<span align="center">Word used by programmers when.. they do not want to explain what they did.</span>
+<span align="center">A room with a Vue.</span>
 </p>
 
 <!-- Socials -->
