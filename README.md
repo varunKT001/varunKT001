@@ -186,9 +186,9 @@
 <p align="center">
 <img width="25px" src="./assets/quote.png">
 <br/>
-<strong align="center">What&#39;s the second movie about a database engineer called?</strong>
+<strong align="center">A SQL query goes into a bar, walks up to two tables and asks:</strong>
 <br/>
-<span align="center">The SQL.</span>
+<span align="center">&#34;Can I join you?&#34;</span>
 </p>
 
 <!-- Socials -->
