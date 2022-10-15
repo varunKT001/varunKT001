@@ -186,9 +186,9 @@
 <p align="center">
 <img width="25px" src="./assets/quote.png">
 <br/>
-<strong align="center">Why do C# and Java developers keep breaking their keyboards?</strong>
+<strong align="center">What does a baby computer call his father?</strong>
 <br/>
-<span align="center">Because they use a strongly typed language.</span>
+<span align="center">Data</span>
 </p>
 
 <!-- Socials -->
