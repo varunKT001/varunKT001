@@ -186,9 +186,9 @@
 <p align="center">
 <img width="25px" src="./assets/quote.png">
 <br/>
-<strong align="center">What accomodations did the JavaScript developer request at the hotel?</strong>
+<strong align="center">Why do C# and Java developers keep breaking their keyboards?</strong>
 <br/>
-<span align="center">A room with a Vue.</span>
+<span align="center">Because they use a strongly typed language.</span>
 </p>
 
 <!-- Socials -->
