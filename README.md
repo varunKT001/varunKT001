@@ -186,9 +186,9 @@
 <p align="center">
 <img width="25px" src="./assets/quote.png">
 <br/>
-<strong align="center">What does a baby computer call his father?</strong>
+<strong align="center">Algorithm (noun)</strong>
 <br/>
-<span align="center">Data</span>
+<span align="center">Word used by programmers when.. they do not want to explain what they did.</span>
 </p>
 
 <!-- Socials -->
