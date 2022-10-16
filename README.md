@@ -186,9 +186,9 @@
 <p align="center">
 <img width="25px" src="./assets/quote.png">
 <br/>
-<strong align="center">What are your plans for the weekend?</strong>
+<strong align="center">Do you know why GraphQL is so fast?</strong>
 <br/>
-<span align="center">I know Front-end and Back-end, what is week-end?</span>
+<span align="center">Because it can&#39;t REST.</span>
 </p>
 
 <!-- Socials -->
