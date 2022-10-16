@@ -186,9 +186,9 @@
 <p align="center">
 <img width="25px" src="./assets/quote.png">
 <br/>
-<strong align="center">Which programming language is the shortest?</strong>
+<strong align="center">Why did the developer cancel their dinner plans?</strong>
 <br/>
-<span align="center">HTML, because it doesn&#39;t have a neck between head and body.</span>
+<span align="center">They were unable to fulfil peer dependencies.</span>
 </p>
 
 <!-- Socials -->
