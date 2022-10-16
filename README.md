@@ -186,9 +186,9 @@
 <p align="center">
 <img width="25px" src="./assets/quote.png">
 <br/>
-<strong align="center">Do you know why GraphQL is so fast?</strong>
+<strong align="center">How do you comfort a JavaScript bug?</strong>
 <br/>
-<span align="center">Because it can&#39;t REST.</span>
+<span align="center">You console it.</span>
 </p>
 
 <!-- Socials -->
