@@ -186,9 +186,9 @@
 <p align="center">
 <img width="25px" src="./assets/quote.png">
 <br/>
-<strong align="center">Do you know why GraphQL is so fast?</strong>
+<strong align="center">What did the proud React component say to its child?</strong>
 <br/>
-<span align="center">Because it can&#39;t REST.</span>
+<span align="center">I&#39;ve got to give you props.</span>
 </p>
 
 <!-- Socials -->
