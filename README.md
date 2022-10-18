@@ -186,9 +186,9 @@
 <p align="center">
 <img width="25px" src="./assets/quote.png">
 <br/>
-<strong align="center">Why did the functions stop calling each other?</strong>
+<strong align="center">Asynchronous JavaScript is amazing.</strong>
 <br/>
-<span align="center">Because they had constant arguments.</span>
+<span align="center">I Promise you, aWait and See</span>
 </p>
 
 <!-- Socials -->
