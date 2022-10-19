@@ -186,9 +186,9 @@
 <p align="center">
 <img width="25px" src="./assets/quote.png">
 <br/>
-<strong align="center">Why was nobody given food at the developer conference?</strong>
+<strong align="center">What does a baby computer call his father?</strong>
 <br/>
-<span align="center">It was a serverless function.</span>
+<span align="center">Data</span>
 </p>
 
 <!-- Socials -->
