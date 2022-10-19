@@ -186,9 +186,9 @@
 <p align="center">
 <img width="25px" src="./assets/quote.png">
 <br/>
-<strong align="center">Why did the developer cancel their dinner plans?</strong>
+<strong align="center">Why was nobody given food at the developer conference?</strong>
 <br/>
-<span align="center">They were unable to fulfil peer dependencies.</span>
+<span align="center">It was a serverless function.</span>
 </p>
 
 <!-- Socials -->
