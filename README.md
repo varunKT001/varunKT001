@@ -186,9 +186,9 @@
 <p align="center">
 <img width="25px" src="./assets/quote.png">
 <br/>
-<strong align="center">What does a baby computer call his father?</strong>
+<strong align="center">Why did the functions stop calling each other?</strong>
 <br/>
-<span align="center">Data</span>
+<span align="center">Because they had constant arguments.</span>
 </p>
 
 <!-- Socials -->
