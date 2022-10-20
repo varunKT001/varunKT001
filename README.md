@@ -186,9 +186,9 @@
 <p align="center">
 <img width="25px" src="./assets/quote.png">
 <br/>
-<strong align="center">Programmer (noun)</strong>
+<strong align="center">Why did the computer keep sneezing?</strong>
 <br/>
-<span align="center">A machine that turns coffee into code.</span>
+<span align="center">It has a virus.</span>
 </p>
 
 <!-- Socials -->
