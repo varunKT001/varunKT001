@@ -186,9 +186,9 @@
 <p align="center">
 <img width="25px" src="./assets/quote.png">
 <br/>
-<strong align="center">Are computers dangerous?</strong>
+<strong align="center">Which programming language is the shortest?</strong>
 <br/>
-<span align="center">Nah, they don&#39;t byte.</span>
+<span align="center">HTML, because it doesn&#39;t have a neck between head and body.</span>
 </p>
 
 <!-- Socials -->
