@@ -186,9 +186,9 @@
 <p align="center">
 <img width="25px" src="./assets/quote.png">
 <br/>
-<strong align="center">What&#39;s the object oriented way to become rich?</strong>
+<strong align="center">When do front end developers go out to eat?</strong>
 <br/>
-<span align="center">Inheritance</span>
+<span align="center">On their lunch &amp;lt;br&amp;gt;.</span>
 </p>
 
 <!-- Socials -->
