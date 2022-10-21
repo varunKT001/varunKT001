@@ -186,9 +186,9 @@
 <p align="center">
 <img width="25px" src="./assets/quote.png">
 <br/>
-<strong align="center">Algorithm (noun)</strong>
+<strong align="center">An agent died unexpectedly. How was the crime solved?</strong>
 <br/>
-<span align="center">Word used by programmers when.. they do not want to explain what they did.</span>
+<span align="center">By looking at the stack trace.</span>
 </p>
 
 <!-- Socials -->
