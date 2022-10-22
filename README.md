@@ -186,9 +186,9 @@
 <p align="center">
 <img width="25px" src="./assets/quote.png">
 <br/>
-<strong align="center">When do front end developers go out to eat?</strong>
+<strong align="center">How does a programmer open a jar?</strong>
 <br/>
-<span align="center">On their lunch &amp;lt;br&amp;gt;.</span>
+<span align="center">They install Java.</span>
 </p>
 
 <!-- Socials -->
