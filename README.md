@@ -186,9 +186,9 @@
 <p align="center">
 <img width="25px" src="./assets/quote.png">
 <br/>
-<strong align="center">Who won the debate for the best name for loop variable?</strong>
+<strong align="center">What&#39;s IKEA&#39;s favorite programming language?</strong>
 <br/>
-<span align="center">&#39;i&#39; won.</span>
+<span align="center">Assembly</span>
 </p>
 
 <!-- Socials -->
