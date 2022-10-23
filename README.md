@@ -186,9 +186,9 @@
 <p align="center">
 <img width="25px" src="./assets/quote.png">
 <br/>
-<strong align="center">Why did the document store go out of business?</strong>
+<strong align="center">What accomodations did the JavaScript developer request at the hotel?</strong>
 <br/>
-<span align="center">It has NoSQL.</span>
+<span align="center">A room with a Vue.</span>
 </p>
 
 <!-- Socials -->
