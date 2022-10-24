@@ -186,9 +186,9 @@
 <p align="center">
 <img width="25px" src="./assets/quote.png">
 <br/>
-<strong align="center">Why do Front-End Developers eat lunch alone?</strong>
+<strong align="center">Programmer (noun)</strong>
 <br/>
-<span align="center">Because, they don&#39;t know how to join tables.</span>
+<span align="center">A machine that turns coffee into code.</span>
 </p>
 
 <!-- Socials -->
