@@ -186,9 +186,9 @@
 <p align="center">
 <img width="25px" src="./assets/quote.png">
 <br/>
-<strong align="center">Which programming language is the shortest?</strong>
+<strong align="center">Who won the debate for the best name for loop variable?</strong>
 <br/>
-<span align="center">HTML, because it doesn&#39;t have a neck between head and body.</span>
+<span align="center">&#39;i&#39; won.</span>
 </p>
 
 <!-- Socials -->
