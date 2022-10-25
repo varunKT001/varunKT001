@@ -34,6 +34,35 @@
 - [**How to Remove an NPM Package: npm uninstall Guide**](https://codedamn.com/news/nodejs/remove-npm-package) (Published at [**Codedamn**](https://codedamn.com/news) publication)
 - [**How to run JavaScript? Run JavaScript Files online**](https://codedamn.com/news/javascript/how-to-run-javascript-file) (Published at [**Codedamn**](https://codedamn.com/news) publication)
 
+<!-- Contributions -->
+
+## I 💙 Open Source
+
+_These are some of my noteworthy contributions._
+
+<table>
+<thead>
+  <tr>
+    <th>Project Name</th>
+    <th>Issue</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td><a href="https://github.com/monkeytypegame/monkeytype" target="_blank" rel="noopener noreferrer">monkeytype</a></td>
+    <td><a href="https://github.com/monkeytypegame/monkeytype/pull/3682" target="_blank" rel="noopener noreferrer">[GH-3463]: Added commands to add/remove the current theme to favorites</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/mattermost/focalboard" target="_blank" rel="noopener noreferrer">focalboard</a></td>
+    <td><a href="https://github.com/mattermost/focalboard/pull/4031" target="_blank" rel="noopener noreferrer">[GH-3947]: Close confirmation dialog box on delete</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/mattermost/focalboard" target="_blank" rel="noopener noreferrer">focalboard</a></td>
+    <td><a href="https://github.com/mattermost/focalboard/pull/3996" target="_blank" rel="noopener noreferrer">[GH-3947]: Added confirmation dialog when deleting a card in calendar/galley view</a></td>
+  </tr>
+</tbody>
+</table>
+
 <!-- Skills -->
 
 ## Skills 💪
@@ -186,9 +215,9 @@
 <p align="center">
 <img width="25px" src="./assets/quote.png">
 <br/>
-<strong align="center">How do you stop a web developer stealing your stuff?</strong>
+<strong align="center">How does a programmer open a jar?</strong>
 <br/>
-<span align="center">Write 403 on it.</span>
+<span align="center">They install Java.</span>
 </p>
 
 <!-- Socials -->
