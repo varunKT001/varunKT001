@@ -5,6 +5,7 @@ export const view = {
     `[Finished in the **Top 10** in **Out of Context**, an event organized by **Effervescence, IIITA**.](https://www.linkedin.com/posts/varun-tiwari-454591178_top10-outofcontext-design-activity-6882312778040930304-Fshh)`,
     `[**GSSOC'22** Project Admin, with my project **Tomper Wear E-commerce**.](https://www.linkedin.com/posts/varun-tiwari-454591178_gssoc22-girlscript-educationfirst-activity-6903552524234686464-bEEL)`,
     `[**TomperWear e-commerce** awarded as the **Best Web App** in **Winter Projects** organized by **GDSC and AASF, IIITM, Gwalior**.](https://www.linkedin.com/posts/aasf-iiitmg_github-winterprojects-learning-activity-6909474506340282368-GYq5)`,
+    `[The **Best Web App** category winner of the **Code With Harnoor** hackathon, organized by **Singh In USA**.](https://code-with-harnoor.devpost.com/project-gallery)`,
   ],
   blogs: [
     `[**git set go** 🐱‍👤](https://medium.com/tech-iiitg/git-set-go-950bfb8fdf19) (Published at [**tech@iiitm-gwalior**](https://medium.com/tech-iiitg) publication)`,
