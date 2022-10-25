@@ -27,6 +27,29 @@
 - <%= blog -%>
 <% } %>
 
+<!-- Contributions -->
+
+## I 💙 Open Source
+
+_These are some of my noteworthy contributions._
+
+<table>
+<thead>
+  <tr>
+    <th>Project Name</th>
+    <th>Issue</th>
+  </tr>
+</thead>
+<tbody>
+<% for (let contribution of contributions) { -%>
+  <tr>
+    <td><a href="<%= contribution.projectLink %>" target="_blank" rel="noopener noreferrer"><%= contribution.projectName %></a></td>
+    <td><a href="<%= contribution.prLink %>" target="_blank" rel="noopener noreferrer"><%= contribution.title %></a></td>
+  </tr>
+<% } -%>
+</tbody>
+</table>
+
 <!-- Skills -->
 
 ## Skills 💪

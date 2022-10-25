@@ -15,6 +15,28 @@ export const view = {
     `[**How to Remove an NPM Package: npm uninstall Guide**](https://codedamn.com/news/nodejs/remove-npm-package) (Published at [**Codedamn**](https://codedamn.com/news) publication)`,
     `[**How to run JavaScript? Run JavaScript Files online**](https://codedamn.com/news/javascript/how-to-run-javascript-file) (Published at [**Codedamn**](https://codedamn.com/news) publication)`,
   ],
+  contributions: [
+    {
+      projectName: 'monkeytype',
+      projectLink: 'https://github.com/monkeytypegame/monkeytype',
+      title:
+        '[GH-3463]: Added commands to add/remove the current theme to favorites',
+      prLink: 'https://github.com/monkeytypegame/monkeytype/pull/3682',
+    },
+    {
+      projectName: 'focalboard',
+      projectLink: 'https://github.com/mattermost/focalboard',
+      title: '[GH-3947]: Close confirmation dialog box on delete',
+      prLink: 'https://github.com/mattermost/focalboard/pull/4031',
+    },
+    {
+      projectName: 'focalboard',
+      projectLink: 'https://github.com/mattermost/focalboard',
+      title:
+        '[GH-3947]: Added confirmation dialog when deleting a card in calendar/galley view',
+      prLink: 'https://github.com/mattermost/focalboard/pull/3996',
+    },
+  ],
   skillBadges: [
     {
       name: 'javascript',
