@@ -216,9 +216,9 @@ _These are some of my noteworthy contributions._
 <p align="center">
 <img width="25px" src="./assets/quote.png">
 <br/>
-<strong align="center">What is a programmer&#39;s favorite hangout place?</strong>
+<strong align="center">A SQL query goes into a bar, walks up to two tables and asks:</strong>
 <br/>
-<span align="center">Foo Bar</span>
+<span align="center">&#34;Can I join you?&#34;</span>
 </p>
 
 <!-- Socials -->
