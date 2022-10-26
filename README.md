@@ -216,9 +216,9 @@ _These are some of my noteworthy contributions._
 <p align="center">
 <img width="25px" src="./assets/quote.png">
 <br/>
-<strong align="center">Do you know why GraphQL is so fast?</strong>
+<strong align="center">0 is false and 1 is true right?</strong>
 <br/>
-<span align="center">Because it can&#39;t REST.</span>
+<span align="center">1</span>
 </p>
 
 <!-- Socials -->
