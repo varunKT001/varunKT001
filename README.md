@@ -216,9 +216,9 @@ _These are some of my noteworthy contributions._
 <p align="center">
 <img width="25px" src="./assets/quote.png">
 <br/>
-<strong align="center">Why doesn&#39;t Hollywood make more Big Data movies?</strong>
+<strong align="center">Why do programmers prefer dark mode?</strong>
 <br/>
-<span align="center">NoSQL</span>
+<span align="center">Because light attracts bugs.</span>
 </p>
 
 <!-- Socials -->
