@@ -216,9 +216,9 @@ _These are some of my noteworthy contributions._
 <p align="center">
 <img width="25px" src="./assets/quote.png">
 <br/>
-<strong align="center">Why do programmers prefer dark mode?</strong>
+<strong align="center">Why are machine learning models so fit?</strong>
 <br/>
-<span align="center">Because light attracts bugs.</span>
+<span align="center">Because they do weight training.</span>
 </p>
 
 <!-- Socials -->
