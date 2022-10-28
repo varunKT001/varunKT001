@@ -216,9 +216,9 @@ _These are some of my noteworthy contributions._
 <p align="center">
 <img width="25px" src="./assets/quote.png">
 <br/>
-<strong align="center">Why did the functions stop calling each other?</strong>
+<strong align="center">Why doesn&#39;t Hollywood make more Big Data movies?</strong>
 <br/>
-<span align="center">Because they had constant arguments.</span>
+<span align="center">NoSQL</span>
 </p>
 
 <!-- Socials -->
