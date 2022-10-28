@@ -216,9 +216,9 @@ _These are some of my noteworthy contributions._
 <p align="center">
 <img width="25px" src="./assets/quote.png">
 <br/>
-<strong align="center">Why are machine learning models so fit?</strong>
+<strong align="center">When do front end developers go out to eat?</strong>
 <br/>
-<span align="center">Because they do weight training.</span>
+<span align="center">On their lunch &amp;lt;br&amp;gt;.</span>
 </p>
 
 <!-- Socials -->
