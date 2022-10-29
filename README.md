@@ -216,9 +216,9 @@ _These are some of my noteworthy contributions._
 <p align="center">
 <img width="25px" src="./assets/quote.png">
 <br/>
-<strong align="center">Why don&#39;t bachelors like Git?</strong>
+<strong align="center">Why do programmers prefer dark mode?</strong>
 <br/>
-<span align="center">Because they are afraid to commit.</span>
+<span align="center">Because light attracts bugs.</span>
 </p>
 
 <!-- Socials -->
