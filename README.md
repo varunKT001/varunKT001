@@ -216,9 +216,9 @@ _These are some of my noteworthy contributions._
 <p align="center">
 <img width="25px" src="./assets/quote.png">
 <br/>
-<strong align="center">Do you know why GraphQL is so fast?</strong>
+<strong align="center">Why did the developer go broke?</strong>
 <br/>
-<span align="center">Because it can&#39;t REST.</span>
+<span align="center">Because they used up all their cache.</span>
 </p>
 
 <!-- Socials -->
