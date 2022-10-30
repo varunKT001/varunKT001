@@ -216,9 +216,9 @@ _These are some of my noteworthy contributions._
 <p align="center">
 <img width="25px" src="./assets/quote.png">
 <br/>
-<strong align="center">Where do programmer dad&#39;s store their jokes?</strong>
+<strong align="center">Do you know why GraphQL is so fast?</strong>
 <br/>
-<span align="center">In a dad-a-base.</span>
+<span align="center">Because it can&#39;t REST.</span>
 </p>
 
 <!-- Socials -->
