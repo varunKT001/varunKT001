@@ -216,9 +216,9 @@ _These are some of my noteworthy contributions._
 <p align="center">
 <img width="25px" src="./assets/quote.png">
 <br/>
-<strong align="center">How many developers does it take to change a light bulb?</strong>
+<strong align="center">Do you know why GraphQL is so fast?</strong>
 <br/>
-<span align="center">None. It&#39;s a hardware issue.</span>
+<span align="center">Because it can&#39;t REST.</span>
 </p>
 
 <!-- Socials -->
