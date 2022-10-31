@@ -216,9 +216,9 @@ _These are some of my noteworthy contributions._
 <p align="center">
 <img width="25px" src="./assets/quote.png">
 <br/>
-<strong align="center">What did the fruit basket say to the developer?</strong>
+<strong align="center">Why did the developer go broke?</strong>
 <br/>
-<span align="center">I hope you&#39;re ready for some pear programming.</span>
+<span align="center">Because they used up all their cache.</span>
 </p>
 
 <!-- Socials -->
