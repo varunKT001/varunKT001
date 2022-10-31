@@ -216,9 +216,9 @@ _These are some of my noteworthy contributions._
 <p align="center">
 <img width="25px" src="./assets/quote.png">
 <br/>
-<strong align="center">Why did the developer go broke?</strong>
+<strong align="center">How many developers does it take to change a light bulb?</strong>
 <br/>
-<span align="center">Because they used up all their cache.</span>
+<span align="center">None. It&#39;s a hardware issue.</span>
 </p>
 
 <!-- Socials -->
