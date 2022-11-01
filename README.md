@@ -216,9 +216,9 @@ _These are some of my noteworthy contributions._
 <p align="center">
 <img width="25px" src="./assets/quote.png">
 <br/>
-<strong align="center">Why are machine learning models so fit?</strong>
+<strong align="center">What did the process say after working in an infinite loop all day?</strong>
 <br/>
-<span align="center">Because they do weight training.</span>
+<span align="center">I need a break.</span>
 </p>
 
 <!-- Socials -->
