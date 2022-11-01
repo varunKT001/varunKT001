@@ -216,9 +216,9 @@ _These are some of my noteworthy contributions._
 <p align="center">
 <img width="25px" src="./assets/quote.png">
 <br/>
-<strong align="center">Where did the API go to eat?</strong>
+<strong align="center">Why are machine learning models so fit?</strong>
 <br/>
-<span align="center">To the RESTaurant.</span>
+<span align="center">Because they do weight training.</span>
 </p>
 
 <!-- Socials -->
