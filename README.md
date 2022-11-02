@@ -216,9 +216,9 @@ _These are some of my noteworthy contributions._
 <p align="center">
 <img width="25px" src="./assets/quote.png">
 <br/>
-<strong align="center">Why was nobody given food at the developer conference?</strong>
+<strong align="center">How do you stop a web developer stealing your stuff?</strong>
 <br/>
-<span align="center">It was a serverless function.</span>
+<span align="center">Write 403 on it.</span>
 </p>
 
 <!-- Socials -->
