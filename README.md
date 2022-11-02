@@ -216,9 +216,9 @@ _These are some of my noteworthy contributions._
 <p align="center">
 <img width="25px" src="./assets/quote.png">
 <br/>
-<strong align="center">What did the process say after working in an infinite loop all day?</strong>
+<strong align="center">Do you know why GraphQL is so fast?</strong>
 <br/>
-<span align="center">I need a break.</span>
+<span align="center">Because it can&#39;t REST.</span>
 </p>
 
 <!-- Socials -->
