@@ -216,9 +216,9 @@ _These are some of my noteworthy contributions._
 <p align="center">
 <img width="25px" src="./assets/quote.png">
 <br/>
-<strong align="center">Do you know why GraphQL is so fast?</strong>
+<strong align="center">Why don&#39;t parents teach their kids about regular expressions?</strong>
 <br/>
-<span align="center">Because it can&#39;t REST.</span>
+<span align="center">Because they don&#39;t want them playing with matches.</span>
 </p>
 
 <!-- Socials -->
