@@ -216,9 +216,9 @@ _These are some of my noteworthy contributions._
 <p align="center">
 <img width="25px" src="./assets/quote.png">
 <br/>
-<strong align="center">Why are machine learning models so fit?</strong>
+<strong align="center">0 is false and 1 is true right?</strong>
 <br/>
-<span align="center">Because they do weight training.</span>
+<span align="center">1</span>
 </p>
 
 <!-- Socials -->
