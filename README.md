@@ -216,9 +216,9 @@ _These are some of my noteworthy contributions._
 <p align="center">
 <img width="25px" src="./assets/quote.png">
 <br/>
-<strong align="center">What do you call a doctor who fixes websites?</strong>
+<strong align="center">Why do Java programmers wear glasses?</strong>
 <br/>
-<span align="center">A URLogist</span>
+<span align="center">Because they don&#39;t C#.</span>
 </p>
 
 <!-- Socials -->
