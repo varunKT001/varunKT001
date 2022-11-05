@@ -216,9 +216,9 @@ _These are some of my noteworthy contributions._
 <p align="center">
 <img width="25px" src="./assets/quote.png">
 <br/>
-<strong align="center">Why did the computer keep sneezing?</strong>
+<strong align="center">Why did the functions stop calling each other?</strong>
 <br/>
-<span align="center">It has a virus.</span>
+<span align="center">Because they had constant arguments.</span>
 </p>
 
 <!-- Socials -->
