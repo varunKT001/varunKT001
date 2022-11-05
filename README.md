@@ -216,9 +216,9 @@ _These are some of my noteworthy contributions._
 <p align="center">
 <img width="25px" src="./assets/quote.png">
 <br/>
-<strong align="center">How do you stop a web developer stealing your stuff?</strong>
+<strong align="center">Why did the computer keep sneezing?</strong>
 <br/>
-<span align="center">Write 403 on it.</span>
+<span align="center">It has a virus.</span>
 </p>
 
 <!-- Socials -->
