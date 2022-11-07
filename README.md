@@ -216,9 +216,9 @@ _These are some of my noteworthy contributions._
 <p align="center">
 <img width="25px" src="./assets/quote.png">
 <br/>
-<strong align="center">What is the hardest part in programming?</strong>
+<strong align="center">Why do Front-End Developers eat lunch alone?</strong>
 <br/>
-<span align="center">Naming variables.</span>
+<span align="center">Because, they don&#39;t know how to join tables.</span>
 </p>
 
 <!-- Socials -->
