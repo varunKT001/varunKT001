@@ -216,9 +216,9 @@ _These are some of my noteworthy contributions._
 <p align="center">
 <img width="25px" src="./assets/quote.png">
 <br/>
-<strong align="center">Why do Front-End Developers eat lunch alone?</strong>
+<strong align="center">Do you know why GraphQL is so fast?</strong>
 <br/>
-<span align="center">Because, they don&#39;t know how to join tables.</span>
+<span align="center">Because it can&#39;t REST.</span>
 </p>
 
 <!-- Socials -->
