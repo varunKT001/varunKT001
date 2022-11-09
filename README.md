@@ -216,9 +216,9 @@ _These are some of my noteworthy contributions._
 <p align="center">
 <img width="25px" src="./assets/quote.png">
 <br/>
-<strong align="center">Why was the computer freezing?</strong>
+<strong align="center">What is a programmer&#39;s favorite hangout place?</strong>
 <br/>
-<span align="center">It left its Windows open.</span>
+<span align="center">Foo Bar</span>
 </p>
 
 <!-- Socials -->
