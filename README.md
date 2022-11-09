@@ -216,9 +216,9 @@ _These are some of my noteworthy contributions._
 <p align="center">
 <img width="25px" src="./assets/quote.png">
 <br/>
-<strong align="center">What are your plans for the weekend?</strong>
+<strong align="center">Who won the debate for the best name for loop variable?</strong>
 <br/>
-<span align="center">I know Front-end and Back-end, what is week-end?</span>
+<span align="center">&#39;i&#39; won.</span>
 </p>
 
 <!-- Socials -->
