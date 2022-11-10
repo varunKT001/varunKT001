@@ -216,9 +216,9 @@ _These are some of my noteworthy contributions._
 <p align="center">
 <img width="25px" src="./assets/quote.png">
 <br/>
-<strong align="center">Exercise for others - 160 calories burned.</strong>
+<strong align="center">What did spider do on the computer?</strong>
 <br/>
-<span align="center">Exercise for coders - 60 bugs fixed.</span>
+<span align="center">Made a website.</span>
 </p>
 
 <!-- Socials -->
