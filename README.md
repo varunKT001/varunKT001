@@ -216,9 +216,9 @@ _These are some of my noteworthy contributions._
 <p align="center">
 <img width="25px" src="./assets/quote.png">
 <br/>
-<strong align="center">Why did the document store go out of business?</strong>
+<strong align="center">Why was the computer freezing?</strong>
 <br/>
-<span align="center">It has NoSQL.</span>
+<span align="center">It left its Windows open.</span>
 </p>
 
 <!-- Socials -->
