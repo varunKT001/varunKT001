@@ -216,9 +216,9 @@ _These are some of my noteworthy contributions._
 <p align="center">
 <img width="25px" src="./assets/quote.png">
 <br/>
-<strong align="center">What did spider do on the computer?</strong>
+<strong align="center">What did JavaScript call his son?</strong>
 <br/>
-<span align="center">Made a website.</span>
+<span align="center">JSON</span>
 </p>
 
 <!-- Socials -->
