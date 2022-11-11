@@ -216,9 +216,9 @@ _These are some of my noteworthy contributions._
 <p align="center">
 <img width="25px" src="./assets/quote.png">
 <br/>
-<strong align="center">What did the Class say in court when put on trial?</strong>
+<strong align="center">Why don&#39;t bachelors like Git?</strong>
 <br/>
-<span align="center">I strongly object!</span>
+<span align="center">Because they are afraid to commit.</span>
 </p>
 
 <!-- Socials -->
