@@ -216,9 +216,9 @@ _These are some of my noteworthy contributions._
 <p align="center">
 <img width="25px" src="./assets/quote.png">
 <br/>
-<strong align="center">What did JavaScript call his son?</strong>
+<strong align="center">What did the Class say in court when put on trial?</strong>
 <br/>
-<span align="center">JSON</span>
+<span align="center">I strongly object!</span>
 </p>
 
 <!-- Socials -->
