@@ -216,9 +216,9 @@ _These are some of my noteworthy contributions._
 <p align="center">
 <img width="25px" src="./assets/quote.png">
 <br/>
-<strong align="center">What is a programmer&#39;s favorite hangout place?</strong>
+<strong align="center">Why did the developer cancel their dinner plans?</strong>
 <br/>
-<span align="center">Foo Bar</span>
+<span align="center">They were unable to fulfil peer dependencies.</span>
 </p>
 
 <!-- Socials -->
