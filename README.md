@@ -216,9 +216,9 @@ _These are some of my noteworthy contributions._
 <p align="center">
 <img width="25px" src="./assets/quote.png">
 <br/>
-<strong align="center">Why are keyboards always working so hard?</strong>
+<strong align="center">What did spider do on the computer?</strong>
 <br/>
-<span align="center">Cause they have two shifts.</span>
+<span align="center">Made a website.</span>
 </p>
 
 <!-- Socials -->
