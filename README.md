@@ -216,9 +216,9 @@ _These are some of my noteworthy contributions._
 <p align="center">
 <img width="25px" src="./assets/quote.png">
 <br/>
-<strong align="center">Why did the developer cancel their dinner plans?</strong>
+<strong align="center">Why are keyboards always working so hard?</strong>
 <br/>
-<span align="center">They were unable to fulfil peer dependencies.</span>
+<span align="center">Cause they have two shifts.</span>
 </p>
 
 <!-- Socials -->
