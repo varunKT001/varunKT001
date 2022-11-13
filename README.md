@@ -216,9 +216,9 @@ _These are some of my noteworthy contributions._
 <p align="center">
 <img width="25px" src="./assets/quote.png">
 <br/>
-<strong align="center">Why was the computer freezing?</strong>
+<strong align="center">What advice do you give to a JS developer who has never played baseball?</strong>
 <br/>
-<span align="center">It left its Windows open.</span>
+<span align="center">Try Catch.</span>
 </p>
 
 <!-- Socials -->
