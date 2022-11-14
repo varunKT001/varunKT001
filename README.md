@@ -216,9 +216,9 @@ _These are some of my noteworthy contributions._
 <p align="center">
 <img width="25px" src="./assets/quote.png">
 <br/>
-<strong align="center">While there is code</strong>
+<strong align="center">What did the Class say in court when put on trial?</strong>
 <br/>
-<span align="center">There is bug</span>
+<span align="center">I strongly object!</span>
 </p>
 
 <!-- Socials -->
