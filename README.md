@@ -216,9 +216,9 @@ _These are some of my noteworthy contributions._
 <p align="center">
 <img width="25px" src="./assets/quote.png">
 <br/>
-<strong align="center">What did the Class say in court when put on trial?</strong>
+<strong align="center">Exercise for others - 160 calories burned.</strong>
 <br/>
-<span align="center">I strongly object!</span>
+<span align="center">Exercise for coders - 60 bugs fixed.</span>
 </p>
 
 <!-- Socials -->
