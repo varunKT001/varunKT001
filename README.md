@@ -216,9 +216,9 @@ _These are some of my noteworthy contributions._
 <p align="center">
 <img width="25px" src="./assets/quote.png">
 <br/>
-<strong align="center">Where do programmer dad&#39;s store their jokes?</strong>
+<strong align="center">What did the proud React component say to its child?</strong>
 <br/>
-<span align="center">In a dad-a-base.</span>
+<span align="center">I&#39;ve got to give you props.</span>
 </p>
 
 <!-- Socials -->
