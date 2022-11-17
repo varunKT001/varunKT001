@@ -216,9 +216,9 @@ _These are some of my noteworthy contributions._
 <p align="center">
 <img width="25px" src="./assets/quote.png">
 <br/>
-<strong align="center">0 is false and 1 is true right?</strong>
+<strong align="center">What&#39;s the object oriented way to become rich?</strong>
 <br/>
-<span align="center">1</span>
+<span align="center">Inheritance</span>
 </p>
 
 <!-- Socials -->
