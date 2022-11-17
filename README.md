@@ -216,9 +216,9 @@ _These are some of my noteworthy contributions._
 <p align="center">
 <img width="25px" src="./assets/quote.png">
 <br/>
-<strong align="center">Which programming language is the shortest?</strong>
+<strong align="center">Why do Java programmers wear glasses?</strong>
 <br/>
-<span align="center">HTML, because it doesn&#39;t have a neck between head and body.</span>
+<span align="center">Because they don&#39;t C#.</span>
 </p>
 
 <!-- Socials -->
