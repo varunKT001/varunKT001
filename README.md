@@ -216,9 +216,9 @@ _These are some of my noteworthy contributions._
 <p align="center">
 <img width="25px" src="./assets/quote.png">
 <br/>
-<strong align="center">What&#39;s the object oriented way to become rich?</strong>
+<strong align="center">Which programming language is the shortest?</strong>
 <br/>
-<span align="center">Inheritance</span>
+<span align="center">HTML, because it doesn&#39;t have a neck between head and body.</span>
 </p>
 
 <!-- Socials -->
