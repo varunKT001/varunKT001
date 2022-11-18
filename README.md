@@ -216,9 +216,9 @@ _These are some of my noteworthy contributions._
 <p align="center">
 <img width="25px" src="./assets/quote.png">
 <br/>
-<strong align="center">Why do Java programmers wear glasses?</strong>
+<strong align="center">Waitress: Do you have any questions about the menu?</strong>
 <br/>
-<span align="center">Because they don&#39;t C#.</span>
+<span align="center">Dev: What kind of font it is?</span>
 </p>
 
 <!-- Socials -->
