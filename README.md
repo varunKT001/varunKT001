@@ -216,9 +216,9 @@ _These are some of my noteworthy contributions._
 <p align="center">
 <img width="25px" src="./assets/quote.png">
 <br/>
-<strong align="center">Why did the functions stop calling each other?</strong>
+<strong align="center">Why couldn&#39;t web developer find their room in a hotel?</strong>
 <br/>
-<span align="center">Because they had constant arguments.</span>
+<span align="center">Because their room number was 404.</span>
 </p>
 
 <!-- Socials -->
