@@ -216,9 +216,9 @@ _These are some of my noteworthy contributions._
 <p align="center">
 <img width="25px" src="./assets/quote.png">
 <br/>
-<strong align="center">How does a programmer open a jar?</strong>
+<strong align="center">What are clouds made of?</strong>
 <br/>
-<span align="center">They install Java.</span>
+<span align="center">Mostly linux servers.</span>
 </p>
 
 <!-- Socials -->
