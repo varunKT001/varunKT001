@@ -216,9 +216,9 @@ _These are some of my noteworthy contributions._
 <p align="center">
 <img width="25px" src="./assets/quote.png">
 <br/>
-<strong align="center">Why did the computer keep sneezing?</strong>
+<strong align="center">Got any funny DNS jokes?</strong>
 <br/>
-<span align="center">It has a virus.</span>
+<span align="center">Yeah, but It may take 24 hours to get it.</span>
 </p>
 
 <!-- Socials -->
