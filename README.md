@@ -216,9 +216,9 @@ _These are some of my noteworthy contributions._
 <p align="center">
 <img width="25px" src="./assets/quote.png">
 <br/>
-<strong align="center">What are clouds made of?</strong>
+<strong align="center">Why did the computer keep sneezing?</strong>
 <br/>
-<span align="center">Mostly linux servers.</span>
+<span align="center">It has a virus.</span>
 </p>
 
 <!-- Socials -->
