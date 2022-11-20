@@ -216,9 +216,9 @@ _These are some of my noteworthy contributions._
 <p align="center">
 <img width="25px" src="./assets/quote.png">
 <br/>
-<strong align="center">Got any funny DNS jokes?</strong>
+<strong align="center">Why do all HTML emails get blocked?</strong>
 <br/>
-<span align="center">Yeah, but It may take 24 hours to get it.</span>
+<span align="center">Because they are all spans.</span>
 </p>
 
 <!-- Socials -->
