@@ -216,9 +216,9 @@ _These are some of my noteworthy contributions._
 <p align="center">
 <img width="25px" src="./assets/quote.png">
 <br/>
-<strong align="center">There are 10 types of people in this world, those who understand binary and those who don&#39;t.</strong>
+<strong align="center">What&#39;s IKEA&#39;s favorite programming language?</strong>
 <br/>
-<span align="center">:)</span>
+<span align="center">Assembly</span>
 </p>
 
 <!-- Socials -->
