@@ -216,9 +216,9 @@ _These are some of my noteworthy contributions._
 <p align="center">
 <img width="25px" src="./assets/quote.png">
 <br/>
-<strong align="center">What did spider do on the computer?</strong>
+<strong align="center">There are 10 types of people in this world, those who understand binary and those who don&#39;t.</strong>
 <br/>
-<span align="center">Made a website.</span>
+<span align="center">:)</span>
 </p>
 
 <!-- Socials -->
