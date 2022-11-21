@@ -216,9 +216,9 @@ _These are some of my noteworthy contributions._
 <p align="center">
 <img width="25px" src="./assets/quote.png">
 <br/>
-<strong align="center">Got any funny DNS jokes?</strong>
+<strong align="center">How did your dog eat your coding assignment?</strong>
 <br/>
-<span align="center">Yeah, but It may take 24 hours to get it.</span>
+<span align="center">It took him a couple bytes.</span>
 </p>
 
 <!-- Socials -->
