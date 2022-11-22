@@ -216,9 +216,9 @@ _These are some of my noteworthy contributions._
 <p align="center">
 <img width="25px" src="./assets/quote.png">
 <br/>
-<strong align="center">What&#39;s IKEA&#39;s favorite programming language?</strong>
+<strong align="center">Programmer (noun)</strong>
 <br/>
-<span align="center">Assembly</span>
+<span align="center">A machine that turns coffee into code.</span>
 </p>
 
 <!-- Socials -->
