@@ -216,9 +216,9 @@ _These are some of my noteworthy contributions._
 <p align="center">
 <img width="25px" src="./assets/quote.png">
 <br/>
-<strong align="center">How did your dog eat your coding assignment?</strong>
+<strong align="center">What&#39;s IKEA&#39;s favorite programming language?</strong>
 <br/>
-<span align="center">It took him a couple bytes.</span>
+<span align="center">Assembly</span>
 </p>
 
 <!-- Socials -->
