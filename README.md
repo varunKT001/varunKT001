@@ -216,9 +216,9 @@ _These are some of my noteworthy contributions._
 <p align="center">
 <img width="25px" src="./assets/quote.png">
 <br/>
-<strong align="center">Why does keyboard sleep?</strong>
+<strong align="center">What do you call a doctor who fixes websites?</strong>
 <br/>
-<span align="center">Because it has two shifts.</span>
+<span align="center">A URLogist</span>
 </p>
 
 <!-- Socials -->
