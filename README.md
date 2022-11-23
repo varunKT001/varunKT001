@@ -216,9 +216,9 @@ _These are some of my noteworthy contributions._
 <p align="center">
 <img width="25px" src="./assets/quote.png">
 <br/>
-<strong align="center">What do you call a doctor who fixes websites?</strong>
+<strong align="center">Why can&#39;t SQL and NoSQL Developers date one other?</strong>
 <br/>
-<span align="center">A URLogist</span>
+<span align="center">Because they don&#39;t agree on relationships.</span>
 </p>
 
 <!-- Socials -->
