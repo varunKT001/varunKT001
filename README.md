@@ -216,9 +216,9 @@ _These are some of my noteworthy contributions._
 <p align="center">
 <img width="25px" src="./assets/quote.png">
 <br/>
-<strong align="center">Why can&#39;t SQL and NoSQL Developers date one other?</strong>
+<strong align="center">What&#39;s IKEA&#39;s favorite programming language?</strong>
 <br/>
-<span align="center">Because they don&#39;t agree on relationships.</span>
+<span align="center">Assembly</span>
 </p>
 
 <!-- Socials -->
