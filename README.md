@@ -216,9 +216,9 @@ _These are some of my noteworthy contributions._
 <p align="center">
 <img width="25px" src="./assets/quote.png">
 <br/>
-<strong align="center">What&#39;s IKEA&#39;s favorite programming language?</strong>
+<strong align="center">Why do C# and Java developers keep breaking their keyboards?</strong>
 <br/>
-<span align="center">Assembly</span>
+<span align="center">Because they use a strongly typed language.</span>
 </p>
 
 <!-- Socials -->
