@@ -216,9 +216,9 @@ _These are some of my noteworthy contributions._
 <p align="center">
 <img width="25px" src="./assets/quote.png">
 <br/>
-<strong align="center">What accomodations did the JavaScript developer request at the hotel?</strong>
+<strong align="center">What are your plans for the weekend?</strong>
 <br/>
-<span align="center">A room with a Vue.</span>
+<span align="center">I know Front-end and Back-end, what is week-end?</span>
 </p>
 
 <!-- Socials -->
