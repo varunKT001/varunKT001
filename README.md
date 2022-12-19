@@ -203,7 +203,7 @@ _These are some of my noteworthy contributions._
 
 <!-- Contributions -->
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats-2.herokuapp.com/?user=varunkt001&" alt="varunkt001" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=varunkt001&" alt="varunkt001" /></p>
 
 <!-- Github stats -->
 
@@ -216,9 +216,9 @@ _These are some of my noteworthy contributions._
 <p align="center">
 <img width="25px" src="./assets/quote.png">
 <br/>
-<strong align="center">Why do C# and Java developers keep breaking their keyboards?</strong>
+<strong align="center">What advice do you give to a JS developer who has never played baseball?</strong>
 <br/>
-<span align="center">Because they use a strongly typed language.</span>
+<span align="center">Try Catch.</span>
 </p>
 
 <!-- Socials -->
