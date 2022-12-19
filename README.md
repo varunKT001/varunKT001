@@ -211,14 +211,14 @@ _These are some of my noteworthy contributions._
 
 <!-- Contribution graph -->
 
-![varun's github activity graph](https://activity-graph.herokuapp.com/graph?username=varunKT001&bg_color=ffffff&color=333333&line=333333&point=0dc200&area=true&hide_border=true)
+![varun's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=varunKT001&bg_color=ffffff&color=333333&line=333333&point=0dc200&area=true&hide_border=true)
 
 <p align="center">
 <img width="25px" src="./assets/quote.png">
 <br/>
-<strong align="center">What advice do you give to a JS developer who has never played baseball?</strong>
+<strong align="center">What accomodations did the JavaScript developer request at the hotel?</strong>
 <br/>
-<span align="center">Try Catch.</span>
+<span align="center">A room with a Vue.</span>
 </p>
 
 <!-- Socials -->
