@@ -209,16 +209,12 @@ _These are some of my noteworthy contributions._
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=varunkt001&show_icons=true&locale=en" alt="varunkt001" /></p>
 
-<!-- Contribution graph -->
-
-![varun's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=varunKT001&bg_color=ffffff&color=333333&line=333333&point=0dc200&area=true&hide_border=true)
-
 <p align="center">
 <img width="25px" src="./assets/quote.png">
 <br/>
-<strong align="center">Who won the debate for the best name for loop variable?</strong>
+<strong align="center">Why don&#39;t bachelors like Git?</strong>
 <br/>
-<span align="center">&#39;i&#39; won.</span>
+<span align="center">Because they are afraid to commit.</span>
 </p>
 
 <!-- Socials -->
