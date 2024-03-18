@@ -9,7 +9,7 @@
 - 🔭 I'm currently learning Typescript.
 - 🌱 I'm looking for open-source/internship opportunities.
 - ✨ Find all my projects at [**varuntiwari.com**](https://varuntiwari.com/)
-- 📫 How to reach me **tiwarivarun819.vt33.vt@gmail.com**
+- 📫 How to reach me **hello@varuntiwari.com**
 
 <!-- Achievements -->
 
